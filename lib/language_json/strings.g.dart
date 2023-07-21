@@ -3,9 +3,9 @@
  * Generated file. Do not edit.
  *
  * Locales: 5
- * Strings: 3625 (725.0 per locale)
+ * Strings: 3630 (726.0 per locale)
  *
- * Built on 2023-07-17 at 11:05 UTC
+ * Built on 2023-07-21 at 06:46 UTC
  */
 
 import 'package:flutter/widgets.dart';
@@ -1054,6 +1054,7 @@ class _StringsEn {
 	String get k_1qgmc20 => 'Select a Chat';
 	String get k_1d8nx6f => 'Open in a new window';
 	String get k_1hz05ax => 'Downloading original resources, please wait...';
+	String get k_003l10k => 'Find';
 }
 
 // Path: <root>
@@ -1797,6 +1798,7 @@ class _StringsJa implements _StringsEn {
 	@override String get k_1qgmc20 => '会話を選択';
 	@override String get k_1d8nx6f => '新しいウィンドウで開く';
 	@override String get k_1hz05ax => '元のリソースをダウンロードしています。お待ちください...';
+	@override String get k_003l10k => '发现';
 }
 
 // Path: <root>
@@ -2540,6 +2542,7 @@ class _StringsKo implements _StringsEn {
 	@override String get k_1qgmc20 => '대화 선택';
 	@override String get k_1d8nx6f => '새 창에서 열기';
 	@override String get k_1hz05ax => '원래 리소스를 다운로드 중입니다. 잠시 기다려주세요...';
+	@override String get k_003l10k => '发现';
 }
 
 // Path: <root>
@@ -3283,6 +3286,7 @@ class _StringsZhHans implements _StringsEn {
 	@override String get k_1qgmc20 => '选择一个会话';
 	@override String get k_1d8nx6f => '在新窗口中打开';
 	@override String get k_1hz05ax => '正在下载原始资源，请稍候...';
+	@override String get k_003l10k => '发现';
 }
 
 // Path: <root>
@@ -4026,6 +4030,7 @@ class _StringsZhHant implements _StringsEn {
 	@override String get k_1qgmc20 => '選擇一個對話';
 	@override String get k_1d8nx6f => '在新視窗中打開';
 	@override String get k_1hz05ax => '正在下載原始資源，請稍候...';
+	@override String get k_003l10k => '发现';
 }
 
 /// Flat map(s) containing all translations.
@@ -4759,6 +4764,7 @@ extension on _StringsEn {
 			'k_1qgmc20': 'Select a Chat',
 			'k_1d8nx6f': 'Open in a new window',
 			'k_1hz05ax': 'Downloading original resources, please wait...',
+			'k_003l10k': 'Find',
 		};
 	}
 }
@@ -5491,6 +5497,7 @@ extension on _StringsJa {
 			'k_1qgmc20': '会話を選択',
 			'k_1d8nx6f': '新しいウィンドウで開く',
 			'k_1hz05ax': '元のリソースをダウンロードしています。お待ちください...',
+			'k_003l10k': '发现',
 		};
 	}
 }
@@ -6223,6 +6230,7 @@ extension on _StringsKo {
 			'k_1qgmc20': '대화 선택',
 			'k_1d8nx6f': '새 창에서 열기',
 			'k_1hz05ax': '원래 리소스를 다운로드 중입니다. 잠시 기다려주세요...',
+			'k_003l10k': '发现',
 		};
 	}
 }
@@ -6955,6 +6963,7 @@ extension on _StringsZhHans {
 			'k_1qgmc20': '选择一个会话',
 			'k_1d8nx6f': '在新窗口中打开',
 			'k_1hz05ax': '正在下载原始资源，请稍候...',
+			'k_003l10k': '发现',
 		};
 	}
 }
@@ -7687,6 +7696,7 @@ extension on _StringsZhHant {
 			'k_1qgmc20': '選擇一個對話',
 			'k_1d8nx6f': '在新視窗中打開',
 			'k_1hz05ax': '正在下載原始資源，請稍候...',
+			'k_003l10k': '发现',
 		};
 	}
 }
