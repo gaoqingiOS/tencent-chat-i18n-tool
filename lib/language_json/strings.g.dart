@@ -5,7 +5,7 @@
  * Locales: 5
  * Strings: 6205 (1241.0 per locale)
  *
- * Built on 2023-07-21 at 17:42 UTC
+ * Built on 2023-07-22 at 03:11 UTC
  */
 
 import 'package:flutter/widgets.dart';
@@ -1059,7 +1059,7 @@ class _StringsEn {
 	String get k_1h72tsh => 'Network exception, please try again';
 	String get k_03flgeh => 'Official account';
 	String get k_1yzk62i => 'We\'re already friends, let\'s start chatting';
-	String get k_003l8z3 => 'prompt';
+	String get k_003l8z3 => 'Prompt';
 	String get k_1kg35h1 => 'Are you sure to join the blacklist?';
 	String get k_10gl02v => 'Burn immediately after reading';
 	String get k_0yis13c => 'Mix ID';
@@ -1100,230 +1100,230 @@ class _StringsEn {
 	String get k_0bt7060 => 'Add a recording';
 	String get k_0d76g15 => 'Add a video';
 	String get k_18nfka7 => 'Add files';
-	String get k_0a54f1h => '请先开启麦克风权限';
-	String get k_0bo1u32 => '未获取到麦克风权限';
-	String get k_003pb7f => '停止';
-	String get k_003qa9o => '试听';
-	String get k_003toof => '上传';
-	String get k_1nmvqz8 => '下载前可以';
-	String get k_0fiplvi => '在线预览';
-	String get k_002vqvn => '下载';
-	String get k_0qxabgo => '文件打开成功';
-	String get k_08gfdgh => '文件获取失败';
-	String get k_07iexsx => '获取文件失败';
-	String get k_15wcvlb => '保存成功';
-	String get k_0f7godw => '保存失败';
-	String get k_19631kn => '搜索公众号';
-	String get k_1xsyhhk => '请输入公众号';
-	String get k_1cmcy09 => '请输入飞飞ID';
-	String get k_03cu3iz => '无数据';
-	String get k_003o01q => '举报';
-	String get k_0c2ktgj => '是否允许加好友';
-	String get k_0fzhwlh => '查看成员卡片';
-	String get k_03i75gl => '发文件';
-	String get k_126srsq => '发起直播';
-	String get k_1urvrjb => '发起多人音视频';
-	String get k_039wkpq => '发名片';
-	String get k_12dgatm => '通知设置';
-	String get k_0fqvx2o => '进群确认';
-	String get k_1gswiy2 => '群共享文件';
-	String get k_0h0v00j => '入群邀请';
-	String get k_15aj6d3 => '邀请加入';
-	String get k_0gw8b4w => '入群申请';
-	String get k_0zzg6cj => '申请处理';
-	String get k_15e0u49 => '普通成员';
-	String get k_12cnjgm => '权限设置';
-	String get k_15apva3 => '自由加入';
-	String get k_197dy3c => '被邀请入群';
-	String get k_1kkr2to => '主动退出群组';
-	String get k_03awhzt => '踢出群';
-	String get k_0k60yv8 => '取消管理员';
-	String get k_0gh20j4 => '群资料变更';
-	String get k_039xu3b => '不通知';
-	String get k_1oujmw9 => '通知所有人';
-	String get k_11mxo4q => '设置群头像';
-	String get k_1iy346s => '上传截图证明';
-	String get k_003tywh => '提交';
-	String get k_0cacu3a => '内容不适';
-	String get k_11ube90 => '色情淫秽';
-	String get k_12kwys1 => '违法违禁';
-	String get k_15ga9hy => '涉嫌赌博';
-	String get k_12sj7v5 => '政治敏感';
-	String get k_0e9g6py => '恐怖血腥';
-	String get k_10yi2by => '存在欺诈诈骗行为';
-	String get k_03ot5di => '此账号可能被盗用';
-	String get k_1aeh9cl => '存在侵权行为';
-	String get k_1bpn4r9 => '发布仿冒品信息';
-	String get k_15icxth => '其他类型';
-	String get k_0seu397 => '请输入详细原因';
-	String get k_0fzqymt => '请选择举报内容';
-	String get k_1xn61l8 => '请上传举报证明';
-	String get k_15wc0r5 => '举报成功';
-	String get k_12qciuw => '群二维码';
-	String get k_1jxdqeu => '发送中...';
-	String get k_0f8duyp => '发送失败';
-	String get k_15wgku3 => '操作成功';
-	String get k_1jj05h6 => '当前有正在直播的语音';
-	String get k_0dgxvof => '直播主题';
-	String get k_03fav83 => '发红包';
-	String get k_126vp1e => '语音直播';
-	String get k_0ghh1y6 => '请输入直播主题';
-	String get k_15gs0jl => '暂无公告';
-	String get k_15wt6wj => '收藏成功';
-	String get k_13oyd7s => '添加收藏成功';
-	String get k_161c5a4 => '了群头像';
-	String k_16rluj4({required Object option7}) => '$option7转让';
-	String get k_003pvbe => '开启';
-	String get k_0gjgbvq => '群直播已结束';
-	String get k_0mrp7iw => '发起了群直播';
-	String get k_0002zhq => '開';
-	String get k_0gogp0f => '全体禁言';
-	String get k_09alugs => '添加好友失败';
-	String get k_1o30vhe => '当前会员等级好友数已满';
-	String get k_06eh4yj => '未查找到用户';
-	String get k_0f7mfyn => '搜索失败';
-	String get k_0niczuj => '搜索飞飞ID添加好友';
-	String get k_1iyn5bc => '暂无群简介';
-	String get k_0g9bs1l => '修改群头像失败';
-	String get k_11msmfh => '修改群头像';
-	String get k_1qjt0hb => '修改群组名称';
-	String get k_0r57zuq => '仅限中文、字母、数字和下划线，2-10个字';
-	String get k_11k8p3s => '群组名称';
-	String get k_0gmqf8i => '选择会话';
-	String get k_16kvge2 => '手机登录';
-	String get k_16knhyf => '短信登录';
-	String get k_07nzkry => '新用户注册';
-	String get k_15wpiai => '发送成功';
-	String get k_12vte5o => '发送给朋友';
-	String get k_003lxmq => '刷新';
-	String get k_0ohfu6d => '设置支付密码';
-	String get k_0ej3rpa => '请设置您的支付密码';
-	String get k_0dh17j8 => '请确认您的支付密码';
-	String get k_0po9pww => '您已成功设置支付密码';
-	String get k_02zez2y => '【图】';
-	String get k_0r9344n => '【位置】';
-	String get k_0rqux0a => '【语音】';
-	String get k_0rpkyk3 => '【视频】';
-	String get k_0g26flq => '数据解析错误';
-	String get k_0zrqsp7 => '插入数据库失败';
-	String get k_1f8pdit => '本地文件不存在';
-	String get k_0v0esah => '数据库未就绪';
-	String get k_0xi281v => '消息不存在或已过期';
-	String get k_002rldn => '语音';
-	String get k_1f8nsui => '没有收藏数据';
-	String get k_0xvupi9 => '文件下载中...';
-	String get k_004all8 => '扫一扫上面的二维码图案，添加我为好友';
-	String get k_03ep2vw => '未实名';
-	String get k_03ep7us => '已实名';
-	String get k_003q1na => '签名';
-	String get k_1ymiwcp => '我的二维码';
-	String get k_003pv7a => '实名';
-	String get k_15amhkh => '提现钱包';
-	String get k_03gm54s => '已绑定';
-	String get k_03gltpg => '未绑定';
-	String get k_13mdvb1 => '基本信息';
-	String get k_161gu2w => '更换头像';
-	String get k_13328o1 => '请输入昵称';
-	String get k_1333dp6 => '出生日期';
-	String get k_131st9d => '我的手机';
-	String get k_03aj4qb => '邀请码';
-	String get k_1k8vgsg => '用户性别已更新';
-	String get k_03ryale => '个性签名已经更新';
-	String get k_1nha9xl => '生日已更新';
-	String get k_103c4lg => '请输入有效的昵称';
-	String get k_0ksndzs => '修改昵称成功';
-	String get k_1l7tupj => '用户头像已更新';
-	String get k_1721fl6 => '国家与地区';
-	String get k_16og9w6 => '认证方式';
-	String get k_15gxxbu => '真实姓名';
-	String get k_15dr9ut => '身份证号';
-	String get k_0bz6nk2 => '认证时间';
-	String get k_0gw1fm7 => '刷脸认证';
-	String get k_0gx4703 => '实名认证';
-	String get k_117b2ya => '证件照片';
-	String get k_002qf2c => '正面';
-	String get k_002qjqi => '反面';
-	String get k_0qfvxug => '手持证件照片';
-	String get k_15ibx7m => '证件类型';
-	String get k_12j5aqs => '证件号码';
-	String get k_11s4bth => '我的昵称';
-	String get k_0c0g0j3 => '聊天时长';
-	String get k_0rejurv => '无需重复签到';
-	String get k_002qtik => '时长';
-	String get k_0c0m523 => '在线时长';
-	String get k_003qqtv => '好友';
-	String get k_1wjkbgk => '邀请的人成为会员';
-	String get k_15l8f24 => '发朋友圈';
-	String get k_002wpbv => '评论';
-	String get k_0gxt7rc => '回复评论';
-	String get k_002urj6 => '点赞';
-	String get k_002ws2a => '邀请';
-	String get k_153t5km => '邀请注册';
-	String get k_10c2s43 => '转发公众号文章';
-	String get k_10ca4r4 => '阅读公众号文章';
-	String get k_003ph29 => '注册';
-	String get k_15m5gx9 => '成为会员';
-	String get k_1751r8w => '群成员达标';
-	String get k_13s9xiv => '发群消息';
-	String get k_16uci5t => '任务中心';
-	String get k_1g5b64b => '做任务得积分';
-	String get k_03ejxmv => '已领取';
-	String get k_0az6qko => '该任务仅对Vip用户开放';
-	String get k_03cho97 => '已完成';
+	String get k_0a54f1h => 'Please turn on the microphone permission first';
+	String get k_0bo1u32 => 'Microphone permission not obtained';
+	String get k_003pb7f => 'Stop';
+	String get k_003qa9o => 'Audit';
+	String get k_003toof => 'Upload';
+	String get k_1nmvqz8 => 'Can be downloaded before';
+	String get k_0fiplvi => 'Online preview';
+	String get k_002vqvn => 'Download';
+	String get k_0qxabgo => 'File opened successfully';
+	String get k_08gfdgh => 'Failed to get file';
+	String get k_07iexsx => 'Failed to get file';
+	String get k_15wcvlb => 'Saved successfully';
+	String get k_0f7godw => 'Failed to save';
+	String get k_19631kn => 'Search official account';
+	String get k_1xsyhhk => 'Please enter the official account';
+	String get k_1cmcy09 => 'Please enter Feifei ID';
+	String get k_03cu3iz => 'No data';
+	String get k_003o01q => 'Report';
+	String get k_0c2ktgj => 'Is it allowed to add friends';
+	String get k_0fzhwlh => 'View member card';
+	String get k_03i75gl => 'Send files';
+	String get k_126srsq => 'Initiate live broadcast';
+	String get k_1urvrjb => 'Initiate multi-person audio and video';
+	String get k_039wkpq => 'Send business card';
+	String get k_12dgatm => 'Notification Settings';
+	String get k_0fqvx2o => 'Enter group confirmation';
+	String get k_1gswiy2 => 'Group shared files';
+	String get k_0h0v00j => 'Group invitation';
+	String get k_15aj6d3 => 'Invite to join';
+	String get k_0gw8b4w => 'Application for joining the group';
+	String get k_0zzg6cj => 'Application Processing';
+	String get k_15e0u49 => 'Ordinary Member';
+	String get k_12cnjgm => 'Permission Settings';
+	String get k_15apva3 => 'Free to join';
+	String get k_197dy3c => 'Invited to join the group';
+	String get k_1kkr2to => 'Actively quit the group';
+	String get k_03awhzt => 'Kick out the group';
+	String get k_0k60yv8 => 'Cancel Administrator';
+	String get k_0gh20j4 => 'Group data change';
+	String get k_039xu3b => 'No notification';
+	String get k_1oujmw9 => 'Notify everyone';
+	String get k_11mxo4q => 'Set group avatar';
+	String get k_1iy346s => 'Upload Screenshot Proof';
+	String get k_003tywh => 'Submit';
+	String get k_0cacu3a => 'Inappropriate content';
+	String get k_11ube90 => 'Pornographic obscenity';
+	String get k_12kwys1 => 'Illegal and prohibited';
+	String get k_15ga9hy => 'Suspected of gambling';
+	String get k_12sj7v5 => 'Political Sensitive';
+	String get k_0e9g6py => 'Horror bloody';
+	String get k_10yi2by => 'There is fraud and fraud';
+	String get k_03ot5di => 'This account may be stolen';
+	String get k_1aeh9cl => 'There is infringement';
+	String get k_1bpn4r9 => 'Publish counterfeit information';
+	String get k_15icxth => 'Other types';
+	String get k_0seu397 => 'Please enter detailed reason';
+	String get k_0fzqymt => 'Please select the report content';
+	String get k_1xn61l8 => 'Please upload the report certificate';
+	String get k_15wc0r5 => 'Report successful';
+	String get k_12qciuw => 'Group QR code';
+	String get k_1jxdqeu => 'Sending...';
+	String get k_0f8duyp => 'Failed to send';
+	String get k_15wgku3 => 'Operation succeeded';
+	String get k_1jj05h6 => 'There is currently a live broadcast';
+	String get k_0dgxvof => 'Live Topic';
+	String get k_03fav83 => 'Send red envelopes';
+	String get k_126vp1e => 'Voice Live';
+	String get k_0ghh1y6 => 'Please enter the subject of the live broadcast';
+	String get k_15gs0jl => 'No announcement yet';
+	String get k_15wt6wj => 'Saved successfully';
+	String get k_13oyd7s => 'Favorite added successfully';
+	String get k_161c5a4 => 'Group Avatar';
+	String k_16rluj4({required Object option7}) => '$option7 transfer';
+	String get k_003pvbe => 'On';
+	String get k_0gjgbvq => 'Group live broadcast has ended';
+	String get k_0mrp7iw => 'Initiated a group live broadcast';
+	String get k_0002zhq => 'On';
+	String get k_0gogp0f => 'Mute all';
+	String get k_09alugs => 'Failed to add friends';
+	String get k_1o30vhe => 'The number of friends at the current membership level is full';
+	String get k_06eh4yj => 'No user found';
+	String get k_0f7mfyn => 'Search failed';
+	String get k_0niczuj => 'Search Feifei ID to add friends';
+	String get k_1iyn5bc => 'No group profile yet';
+	String get k_0g9bs1l => 'Failed to modify group avatar';
+	String get k_11msmfh => 'Modify group avatar';
+	String get k_1qjt0hb => 'Modify group name';
+	String get k_0r57zuq => 'Only Chinese, letters, numbers and underscores, 2-10 characters';
+	String get k_11k8p3s => 'Group name';
+	String get k_0gmqf8i => 'Select session';
+	String get k_16kvge2 => 'Mobile phone login';
+	String get k_16knhyf => 'SMS login';
+	String get k_07nzkry => 'New user registration';
+	String get k_15wpiai => 'Send successfully';
+	String get k_12vte5o => 'Send to a friend';
+	String get k_003lxmq => 'Refresh';
+	String get k_0ohfu6d => 'Set payment password';
+	String get k_0ej3rpa => 'Please set your payment password';
+	String get k_0dh17j8 => 'Please confirm your payment password';
+	String get k_0po9pww => 'You have successfully set the payment password';
+	String get k_02zez2y => '[Picture]';
+	String get k_0r9344n => '[Location]';
+	String get k_0rqux0a => '[Voice]';
+	String get k_0rpkyk3 => '[Video]';
+	String get k_0g26flq => 'Data parsing error';
+	String get k_0zrqsp7 => 'Failed to insert into database';
+	String get k_1f8pdit => 'Local file does not exist';
+	String get k_0v0esah => 'Database not ready';
+	String get k_0xi281v => 'The message does not exist or has expired';
+	String get k_002rldn => 'Voice';
+	String get k_1f8nsui => 'No collection data';
+	String get k_0xvupi9 => 'File downloading...';
+	String get k_004all8 => 'Scan the QR code above and add me as a friend';
+	String get k_03ep2vw => 'Unverified';
+	String get k_03ep7us => 'Realized';
+	String get k_003q1na => 'Signature';
+	String get k_1ymiwcp => 'My QR code';
+	String get k_003pv7a => 'Real Name';
+	String get k_15amhkh => 'Withdraw wallet';
+	String get k_03gm54s => 'Bound';
+	String get k_03gltpg => 'Unbound';
+	String get k_13mdvb1 => 'Basic information';
+	String get k_161gu2w => 'Change avatar';
+	String get k_13328o1 => 'Please enter a nickname';
+	String get k_1333dp6 => 'Date of Birth';
+	String get k_131st9d => 'My phone';
+	String get k_03aj4qb => 'Invitation Code';
+	String get k_1k8vgsg => 'User gender has been updated';
+	String get k_03ryale => 'The signature has been updated';
+	String get k_1nha9xl => 'Birthday updated';
+	String get k_103c4lg => 'Please enter a valid nickname';
+	String get k_0ksndzs => 'Nickname changed successfully';
+	String get k_1l7tupj => 'User profile picture has been updated';
+	String get k_1721fl6 => 'Country and Region';
+	String get k_16og9w6 => 'Authentication method';
+	String get k_15gxxbu => 'real name';
+	String get k_15dr9ut => 'ID card number';
+	String get k_0bz6nk2 => 'Authentication time';
+	String get k_0gw1fm7 => 'Face authentication';
+	String get k_0gx4703 => 'Real-name authentication';
+	String get k_117b2ya => 'ID photo';
+	String get k_002qf2c => 'Front';
+	String get k_002qjqi => 'Negative';
+	String get k_0qfvxug => 'Holding ID photo';
+	String get k_15ibx7m => 'Certificate Type';
+	String get k_12j5aqs => 'Document number';
+	String get k_11s4bth => 'My Nickname';
+	String get k_0c0g0j3 => 'Chat duration';
+	String get k_0rejurv => 'No need to repeat check-in';
+	String get k_002qtik => 'Duration';
+	String get k_0c0m523 => 'Online Time';
+	String get k_003qqtv => 'Friends';
+	String get k_1wjkbgk => 'Invited people become members';
+	String get k_15l8f24 => 'Send to Moments';
+	String get k_002wpbv => 'Comment';
+	String get k_0gxt7rc => 'Reply to comment';
+	String get k_002urj6 => 'Like';
+	String get k_002ws2a => 'Invitation';
+	String get k_153t5km => 'Invitation to register';
+	String get k_10c2s43 => 'Forward official account articles';
+	String get k_10ca4r4 => 'Read official account articles';
+	String get k_003ph29 => 'Registration';
+	String get k_15m5gx9 => 'Become a member';
+	String get k_1751r8w => 'Group members up to standard';
+	String get k_13s9xiv => 'Send group messages';
+	String get k_16uci5t => 'Mission Center';
+	String get k_1g5b64b => 'Get points for doing tasks';
+	String get k_03ejxmv => 'Received';
+	String get k_0az6qko => 'This task is only open to VIP users';
+	String get k_03cho97 => 'Completed';
 	String get k_003qcq4 => 'integral';
-	String k_06kyva3({required Object option2}) => '您的朋友『$option2』邀请您注册飞飞账号，';
-	String get k_02ny1h7 => '去认证';
-	String get k_03ejkrf => '去加入';
-	String get k_03f610l => '去添加';
-	String get k_02o1zhl => '去邀请';
-	String get k_03dg4px => '去关注';
-	String get k_03emucj => '去转发';
-	String get k_02o2pc0 => '去阅读';
-	String get k_02iti5q => '去发送';
-	String get k_02nys68 => '去评论';
-	String get k_02m6zdl => '去点赞';
-	String get k_03gopzh => '去回复';
-	String get k_03fncin => '去创建';
-	String get k_03chwpf => '未完成';
-	String get k_03gvqnx => '去聊天';
-	String get k_03chmbm => '去完成';
-	String get k_15uonw9 => '我的积分';
-	String get k_036xcpf => '商城 >';
-	String get k_0w9mjlu => '您已连续签到';
-	String get k_00043v0 => '天';
-	String get k_15u268j => '立即签到';
-	String get k_003r45i => '今天';
+	String k_06kyva3({required Object option2}) => 'Your friend『$option2』invited you to register Feifei account,';
+	String get k_02ny1h7 => 'Go to authentication';
+	String get k_03ejkrf => 'Go to join';
+	String get k_03f610l => 'To add';
+	String get k_02o1zhl => 'Go to invite';
+	String get k_03dg4px => 'Go to follow';
+	String get k_03emucj => 'To forward';
+	String get k_02o2pc0 => 'Go to read';
+	String get k_02iti5q => 'Go send';
+	String get k_02nys68 => 'Go to comment';
+	String get k_02m6zdl => 'Go to Like';
+	String get k_03gopzh => 'Go to reply';
+	String get k_03fncin => 'Go create';
+	String get k_03chwpf => 'Unfinished';
+	String get k_03gvqnx => 'Go chat';
+	String get k_03chmbm => 'Go to finish';
+	String get k_15uonw9 => 'My points';
+	String get k_036xcpf => 'Mall >';
+	String get k_0w9mjlu => 'You have logged in continuously';
+	String get k_00043v0 => 'day';
+	String get k_15u268j => 'Sign in now';
+	String get k_003r45i => 'Today';
 	String get k_10obo7h => 'Lucky Blind Box';
 	String get k_15nmzxg => 'Points Mall';
-	String get k_11y1zc4 => '积分明细';
-	String get k_1cjm4qi => '积分有什么用？';
-	String get k_0vlxmxp => '积分可以在飞飞商城内购买商品，同时可以兑换不同种类的券';
-	String get k_0c882f8 => '关于积分获取的途径';
-	String k_13s083e({required Object option1}) => '聊天时长：$option1分钟';
-	String k_0u6amsz({required Object option1}) => '领取积分 $option1分钟';
-	String k_1p62y99({required Object time}) => '$time分钟';
-	String get k_15ween8 => '签到成功';
-	String get k_11y595m => '交易明细';
-	String get k_15vsaj1 => '去赚积分';
-	String get k_0p493se => '邀请链接已复制在剪贴板\n去发送给朋友吧';
-	String get k_003lz44 => '官方';
+	String get k_11y1zc4 => 'Points Details';
+	String get k_1cjm4qi => 'What are the points for?';
+	String get k_0vlxmxp => 'Points can be used to purchase goods in Feifei Mall, and can be exchanged for different types of coupons';
+	String get k_0c882f8 => 'About the way to obtain points';
+	String k_13s083e({required Object option1}) => 'Chat duration: $option1 minute';
+	String k_0u6amsz({required Object option1}) => 'Receive points $option1 minute';
+	String k_1p62y99({required Object time}) => '$time minutes';
+	String get k_15ween8 => 'Sign in successfully';
+	String get k_11y595m => 'Transaction Details';
+	String get k_15vsaj1 => 'To earn points';
+	String get k_0p493se => 'The invitation link has been copied in the clipboard\ngo and send it to a friend';
+	String get k_003lz44 => 'Official';
 	String get k_003q45p => 'shopping centre';
-	String get k_003niz6 => '游戏';
-	String get k_003q73z => '任务';
-	String get k_133nceo => '月份选择';
-	String get k_02otdke => '消费：';
-	String get k_02ps7ik => '收入：';
-	String get k_0dhydu0 => '积分余额';
-	String k_0l172kk({required Object option1}) => '积分余额：$option1';
-	String get k_1961naj => '暂无公众号';
-	String get k_0ro5oul => '清空双方的聊天记录';
-	String get k_13p53gl => '聊天背景';
-	String get k_12dodee => '聊天设置';
-	String get k_1jx0mc6 => '领取中...';
+	String get k_003niz6 => 'Game';
+	String get k_003q73z => 'Task';
+	String get k_133nceo => 'Month Selection';
+	String get k_02otdke => 'Consumption:';
+	String get k_02ps7ik => 'Income:';
+	String get k_0dhydu0 => 'Point balance';
+	String k_0l172kk({required Object option1}) => 'Point balance: $option1';
+	String get k_1961naj => 'No official account yet';
+	String get k_0ro5oul => 'Clear the chat history of both parties';
+	String get k_13p53gl => 'Chat Background';
+	String get k_12dodee => 'Chat Settings';
+	String get k_1jx0mc6 => 'Receiving...';
 	String get k_0d19a3e => 'About MixChat';
-	String k_1hfsmdv({required Object option1}) => '当前版本：$option1';
-	String get k_11s0kgy => '暂无昵称';
-	String k_0zamm8m({required Object timeStr}) => '会员到期：$timeStr';
+	String k_1hfsmdv({required Object option1}) => 'Current version: $option1';
+	String get k_11s0kgy => 'No nickname yet';
+	String k_0zamm8m({required Object timeStr}) => 'Membership expires: $timeStr';
 	String get k_16oyobn => 'Night mode';
 	String get k_0za5blj => 'Notifications and sounds';
 	String get k_166akhw => 'Invite friends';
@@ -1333,240 +1333,240 @@ class _StringsEn {
 	String get k_003pp1t => 'wallet';
 	String get k_003pvma => 'Order';
 	String get k_003qcnq => 'activity';
-	String get k_15ang3o => '我的钱包';
-	String get k_1gnu9ra => '我的USDT';
-	String get k_003qjuk => '充值';
-	String get k_003l46d => '提现';
-	String get k_15wemfn => '充值成功';
-	String get k_1vqvg0y => '请向以下地址转入USDT';
-	String get k_15we8ep => '复制成功';
-	String get k_0b4wh2e => '转账完成后，请在下方输入交易Token';
-	String get k_1jqn9ih => '交易Token';
-	String get k_002uu5l => '粘贴';
-	String get k_0f8q3nj => '充值入账';
-	String get k_03f6511 => '提现到';
-	String get k_0pklv2t => '请先绑定钱包地址';
-	String get k_0d3x98p => '提现金额';
-	String get k_068m6qw => '请输入金额';
-	String k_02yrsp6({required Object option1}) => '当前余额 $option1元';
-	String get k_0foqurj => '余额不足';
-	String get k_11h7h7p => '全部提现';
-	String get k_0epwkn5 => '请输入正确的提现金额';
-	String get k_15w96ru => '提现成功';
-	String get k_003nqkz => '更换';
-	String get k_003ry6m => '绑定';
-	String get k_003py1h => '类型';
-	String get k_003q0mt => '地址';
-	String get k_11y0i55 => '钱包明细';
-	String get k_134pvev => '时间选择';
-	String get k_15aundm => '绑定钱包';
-	String get k_15iimbl => '钱包类型';
-	String get k_14bvx6m => '钱包备注';
-	String get k_09equn4 => '请输入钱包地址';
-	String get k_13jsfpy => '请选择钱包类型';
-	String get k_0uy7vvj => '请输入钱包备注';
-	String get k_11wem41 => '跟随系统';
-	String get k_16on03j => '白天模式';
-	String get k_16os0uz => '设置模式';
-	String get k_16loi3t => '字体大小';
-	String get k_0aocx45 => '预览字体大小';
-	String get k_00043ai => '小';
-	String get k_003pkuc => '标准';
-	String get k_00043uq => '大';
-	String get k_1e2o09m => '通知显示消息详情';
-	String get k_0nu1yos => '前往系统设置';
-	String get k_112pkbh => '消息通知';
-	String get k_0tg0hol => '聊天界面消息提示';
-	String get k_1s63iqw => '聊天界面语音和视频通话提醒';
-	String get k_0ekexfa => '语音和视频通话提醒音';
-	String get k_1ms5id3 => '消息通知提示';
-	String get k_0h77bwt => '切换语言';
-	String get k_12kotxx => '修改密码';
-	String get k_0ohliw2 => '修改支付密码';
-	String get k_0ss301w => '请输入旧密码';
-	String get k_0sqq0kz => '请输入新密码';
-	String get k_1a1c08v => '请再次输入新密码';
-	String get k_16a3xme => '选择铃声';
-	String get k_002v2m1 => '默认';
-	String get k_003jf1x => '来电';
-	String get k_002rdrs => '优雅';
-	String get k_003kvau => '轻盈';
-	String get k_003rbbb => '愉快';
-	String get k_1uslpqg => '确定清空所有聊天记录,清除后将不可恢复！';
-	String get k_1r1zwum => '聊天记录已清空';
-	String get k_148ihfp => '确定清空所有缓存数据吗';
-	String get k_1ko89xf => '缓存已清空';
-	String get k_1y4m6ll => '登录密码已修改';
-	String get k_1y4q4r4 => '支付密码已修改';
-	String get k_18n0wgy => '聊天字体';
-	String get k_172ymi7 => '清除缓存';
-	String get k_1c88jkl => '清空所有聊天记录';
-	String get k_00fp373 => '聊天记录备份和迁移';
-	String get k_12kh1kc => '登录密码';
-	String get k_12kjxn9 => '支付密码';
-	String get k_0c0iy96 => '帐号注销';
-	String get k_0yngxez => '注销后，您将无法使用当前账号，相关数据也将删除且无法找回。';
-	String get k_0c0nex3 => '继续注销';
-	String get k_0k58icw => '退出当前账号';
-	String get k_1t2qn6k => '我发出的红包';
-	String get k_16000bb => '我的红包';
-	String get k_10esx8g => '收到的红包';
-	String get k_02oubz4 => '数量：';
-	String get k_02psrbq => 'integral：';
-	String get k_12b45i0 => '红包个数';
-	String get k_1g49dbx => '请填写红包个数';
-	String get k_00046tr => '个';
-	String get k_02jsbaq => '总金额';
-	String get k_002s44p => '金额';
-	String get k_19u8qtn => '恭喜发财，大吉大利';
-	String get k_1jzucnx => '发红包...';
-	String get k_11l6ib2 => '温馨提示';
-	String get k_0v6os6k => '您还未设置支付密码，请先设置支付密码';
-	String get k_03bcscu => '去设置';
-	String get k_1ey4n63 => '请填写红包金额';
-	String get k_1x36072 => '红包个数必须大于1';
-	String get k_11kbq7a => '红包金额必须大于0.01';
-	String get k_114aic6 => '塞钱进红包';
-	String get k_12rwge9 => '红包详情';
-	String get k_0hjtqzx => '领取时间：';
-	String get k_0hjm4ya => '发放时间：';
-	String get k_02pm53k => '备注：';
-	String get k_15zrx76 => '个人红包';
-	String get k_003pn1q => '发出';
-	String get k_003qhoj => '收到';
-	String get k_003loel => '明细';
-	String get k_15ken91 => '选择地址';
-	String get k_003qdlq => '添加';
-	String get k_0m49i5e => '请选择地址';
-	String get k_0cftftk => '确定所选';
-	String get k_15h7hgn => '我的奖品';
-	String get k_003rxj2 => '中奖';
-	String get k_0004138 => '次';
-	String get k_03gl6vo => '未中奖';
-	String get k_02mnstm => '待确认';
-	String get k_02m48om => '待发货';
-	String get k_03bcql4 => '已发放';
-	String get k_176stij => '抽奖记录';
-	String get k_06uvhak => '收获地址已确认';
-	String get k_12rxqup => '奖品详情';
-	String get k_02m4875 => '已发货';
-	String get k_05lreie => '兑奖须知：\n1.请确认收货地址，以便我们为您寄送奖品！\n2.请注意，工作人员不会向您索取账号和密码。';
-	String get k_1gimnic => '选择收货地址';
-	String get k_13mdgdf => '物流信息';
-	String get k_0bz5qxd => '发货时间';
-	String get k_1643ht4 => '快递公司';
-	String get k_165wkhq => '快递单号';
-	String get k_03j8ulq => '收货人';
-	String get k_0gvsmf6 => '联系电话';
-	String get k_15lhsw4 => '收货地址';
-	String get k_12kwi6i => '忘记密码';
-	String get k_139hvwk => '您好，欢迎来到飞飞！';
-	String get k_12cz35y => '确定修改';
-	String get k_03bl1bs => '图形码';
-	String get k_003pg1h => '中国';
-	String get k_0zei6y3 => '中国大陆用户';
-	String get k_0gx2hvj => '人工认证';
-	String get k_0vsuvrp => '非中国大陆用户';
-	String get k_176oa6w => '请选择地区';
-	String get k_0iztiey => '请输入姓名';
-	String get k_1ulmr9x => '请选择证件类型';
-	String get k_17ivr9h => '请输入证件号码';
-	String get k_0k2ghyn => '请上传证件照片';
-	String get k_02gkz6q => '请上传手持证件照';
-	String get k_15wgmqm => '提交成功';
-	String get k_03c67bm => '请选择';
-	String get k_03fkcas => '请输入';
-	String get k_02nltw2 => '身份证';
-	String get k_003k692 => '护照';
-	String get k_1ufbmvz => '手持证件照';
-	String get k_0gwzc1g => '提交认证';
-	String get k_0f8cwpo => '验证失败';
-	String get k_15wqp1j => '验证成功';
-	String get k_129vp54 => '验证中断';
-	String get k_0gz64im => '网络错误';
-	String get k_0gyzkep => '时间错误';
-	String get k_11o6a70 => '实名认证成功';
-	String get k_003pvnf => '姓名';
-	String get k_1ftut35 => '输入您的姓名';
-	String get k_1sdfsp0 => '身份证号码';
-	String get k_0wkndha => '输入您的身份证号码';
-	String get k_1y9bhhb => '请输入正确的姓名和身份证号';
-	String get k_03eaqiz => '下一步';
-	String get k_0llbd45 => '根据相关法律法规，完成实名认证后才能注册成功';
-	String get k_003nbbe => '客服';
-	String get k_153slh1 => '免费注册';
-	String get k_1o0hgk5 => '忘记密码?';
-	String get k_1jmec3r => '验证码登录';
-	String get k_003mfaa => '密码';
-	String get k_16fluxb => '用手机号注册';
-	String get k_1nak7z8 => '请输入短信验证码';
-	String get k_1t9kzib => '请输入密码';
-	String get k_1hxitjy => '密码长度要大于6个字符';
-	String get k_190gsmz => '请勾选用户协议';
-	String get k_1k6nsc6 => '已有账号，去登录';
-	String get k_0wonbyj => '选择国家/地区';
-	String get k_003p7ir => '香港';
-	String get k_003n0p8 => '日本';
-	String get k_002qqnq => '澳門';
-	String get k_003l858 => '臺灣';
-	String get k_1cxw2as => '网络异常，请检查你的网络！';
-	String get k_1h008je => '服务器异常！';
-	String get k_1bqypqk => '连接超时！';
-	String get k_14n1r3i => '取消请求';
-	String get k_16anqj4 => '未知异常';
-	String get k_0ofjb4m => '请求地址错误';
-	String get k_019l7v9 => '语音消息太短了，发送失败';
-	String get k_1iq7dqo => '网络异常，请检查手机网络';
-	String get k_1qftopu => '很抱歉，因为历史消息太多啦，未能定位到原消息';
-	String get k_0v1x48s => '设备存储空间不足';
-	String get k_04kxdio => '收到不支持的视频格式(仅支持 MP4 格式)';
-	String get k_0jqg56q => '群组名称不超过10个汉字';
-	String get k_04vttkw => '您不在该群组中';
-	String get k_1sv9ozd => '群组操作权限不足';
-	String get k_1o5hokj => '验证已失效';
-	String get k_0gz4ni4 => '未知错误';
-	String get k_1outzsa => '消息内容过多，发送失败！';
-	String get k_05tl6ah => '该群组已被解散';
-	String get k_1hj1unp => '您已被禁言';
-	String get k_0ybsani => '无效的消息';
-	String get k_0t1vzz7 => '聊天服务签名异常';
-	String get k_0uxhld5 => '请求过于频繁，请稍后再试';
-	String get k_0bb5lc8 => '帐号已被被拉黑';
-	String get k_1klyit4 => '请求的账号不存在';
-	String get k_1mh4f77 => '因安全原因被限制登录，请不要频繁登录。';
-	String get k_1iz0d7e => '服务端内部超时，请稍后重试。';
-	String get k_17gz72e => '请求中批量数量不合法。';
-	String get k_0b2n04j => '您使用的版本太低，请升级到最新版本。';
-	String get k_1ao2s3n => '权限不足，操作失败。';
-	String get k_0b9gj3x => '请升级聊天服务';
-	String get k_0l8awjd => '并发用户过高，请联系客服';
-	String get k_1urnn0n => '请勿频繁登录与退出';
-	String get k_1p6dcs6 => '网络环境异常，请检查网络连接';
-	String get k_0ptfjkx => '对方已将您拉黑';
-	String get k_0iltsr2 => '登录状态异常，请重新登录';
-	String get k_0yk4kjq => '消息未找到';
-	String get k_0n9piov => '消息不存在';
-	String get k_0c786uw => '即时通信服务连接失败';
-	String get k_1hmfp8h => '即时通信服务连接中';
-	String get k_0xyf58f => '登录状态已失效，请重新登录';
-	String get k_1tyzgij => '令牌时效,请重新登录';
-	String get k_1g50ztv => '即时通信服务初始化失败';
-	String get k_0quxvmc => '请输入支付密码';
-	String get k_160sb5e => '发送红包';
-	String get k_12kxh3j => '验证密码';
-	String get k_125wb4w => '下拉刷新';
-	String get k_125pk70 => '松开刷新';
-	String get k_13fa0ke => '刷新完成';
-	String get k_1jxgrp7 => '加载中...';
-	String get k_0v5ilv9 => '上拉加载更多';
-	String get k_0v5swmg => '松开加载更多';
-	String get k_0cr7hfh => '没有更多数据';
-	String get k_15wbgq5 => '刷新成功';
-	String get k_1jwyge9 => '刷新中...';
-	String get k_1rlopig => '[公众号文章]';
-	String get k_1nmlx8k => '[语音直播]';
-	String get k_0y7hb2c => '[红包]';
-	String get k_0y1agsp => '[名片]';
+	String get k_15ang3o => 'My Wallet';
+	String get k_1gnu9ra => 'My USDT';
+	String get k_003qjuk => 'Recharge';
+	String get k_003l46d => 'Withdraw';
+	String get k_15wemfn => 'Recharge successful';
+	String get k_1vqvg0y => 'Please transfer USDT to the following address';
+	String get k_15we8ep => 'Copy successful';
+	String get k_0b4wh2e => 'After the transfer is completed, please enter the transaction Token below';
+	String get k_1jqn9ih => 'Transaction Token';
+	String get k_002uu5l => 'Paste';
+	String get k_0f8q3nj => 'Recharge into account';
+	String get k_03f6511 => 'Withdraw to';
+	String get k_0pklv2t => 'Please bind wallet address first';
+	String get k_0d3x98p => 'Withdrawal Amount';
+	String get k_068m6qw => 'Please enter the amount';
+	String k_02yrsp6({required Object option1}) => 'Current balance $option1';
+	String get k_0foqurj => 'Insufficient balance';
+	String get k_11h7h7p => 'Withdraw all';
+	String get k_0epwkn5 => 'Please enter the correct withdrawal amount';
+	String get k_15w96ru => 'Withdrawal successful';
+	String get k_003nqkz => 'Replacement';
+	String get k_003ry6m => 'Binding';
+	String get k_003py1h => 'Type';
+	String get k_003q0mt => 'Address';
+	String get k_11y0i55 => 'Wallet Details';
+	String get k_134pvev => 'Time selection';
+	String get k_15aundm => 'Bind Wallet';
+	String get k_15iimbl => 'Wallet Type';
+	String get k_14bvx6m => 'Wallet Remarks';
+	String get k_09equn4 => 'Please enter wallet address';
+	String get k_13jsfpy => 'Please select wallet type';
+	String get k_0uy7vvj => 'Please enter wallet remarks';
+	String get k_11wem41 => 'Follow the system';
+	String get k_16on03j => 'Day Mode';
+	String get k_16os0uz => 'Set Mode';
+	String get k_16loi3t => 'Font Size';
+	String get k_0aocx45 => 'Preview font size';
+	String get k_00043ai => 'Small';
+	String get k_003pkuc => 'Standard';
+	String get k_00043uq => 'Large';
+	String get k_1e2o09m => 'Notification display message details';
+	String get k_0nu1yos => 'Go to system settings';
+	String get k_112pkbh => 'Message Notification';
+	String get k_0tg0hol => 'Chat interface message prompt';
+	String get k_1s63iqw => 'Chat interface voice and video call reminder';
+	String get k_0ekexfa => 'Voice and video call reminder tone';
+	String get k_1ms5id3 => 'Message Notification Prompt';
+	String get k_0h77bwt => 'Switch language';
+	String get k_12kotxx => 'Change password';
+	String get k_0ohliw2 => 'Change payment password';
+	String get k_0ss301w => 'Please enter the old password';
+	String get k_0sqq0kz => 'Please enter a new password';
+	String get k_1a1c08v => 'Please enter the new password again';
+	String get k_16a3xme => 'Select ringtone';
+	String get k_002v2m1 => 'Default';
+	String get k_003jf1x => 'Incoming call';
+	String get k_002rdrs => 'Elegant';
+	String get k_003kvau => 'Lightness';
+	String get k_003rbbb => 'Happy';
+	String get k_1uslpqg => 'Make sure to clear all chat history, it will not be recoverable after clearing!';
+	String get k_1r1zwum => 'Chat history has been cleared';
+	String get k_148ihfp => 'Are you sure to clear all cached data';
+	String get k_1ko89xf => 'Cache has been cleared';
+	String get k_1y4m6ll => 'Login password has been changed';
+	String get k_1y4q4r4 => 'The payment password has been changed';
+	String get k_18n0wgy => 'Chat font';
+	String get k_172ymi7 => 'Clear cache';
+	String get k_1c88jkl => 'Clear all chat records';
+	String get k_00fp373 => 'Chat history backup and migration';
+	String get k_12kh1kc => 'Login Password';
+	String get k_12kjxn9 => 'Payment password';
+	String get k_0c0iy96 => 'Account Cancellation';
+	String get k_0yngxez => 'After logging out, you will not be able to use the current account, and related data will also be deleted and cannot be retrieved.';
+	String get k_0c0nex3 => 'Continue to logout';
+	String get k_0k58icw => 'Exit the current account';
+	String get k_1t2qn6k => 'The red envelope I sent';
+	String get k_16000bb => 'My red envelope';
+	String get k_10esx8g => 'Received red envelope';
+	String get k_02oubz4 => 'Quantity:';
+	String get k_02psrbq => 'integral:';
+	String get k_12b45i0 => 'Number of red envelopes';
+	String get k_1g49dbx => 'Please fill in the number of red envelopes';
+	String get k_00046tr => 'unit';
+	String get k_02jsbaq => 'Total amount';
+	String get k_002s44p => 'Amount';
+	String get k_19u8qtn => 'Gong Xi Fa Cai, good luck';
+	String get k_1jzucnx => 'Send red envelopes...';
+	String get k_11l6ib2 => 'Reminder';
+	String get k_0v6os6k => 'You have not set a payment password, please set a payment password first';
+	String get k_03bcscu => 'Go to settings';
+	String get k_1ey4n63 => 'Please fill in the red envelope amount';
+	String get k_1x36072 => 'The number of red envelopes must be greater than 1';
+	String get k_11kbq7a => 'The amount of the red envelope must be greater than 0.01';
+	String get k_114aic6 => 'Put money into the red envelope';
+	String get k_12rwge9 => 'Red envelope details';
+	String get k_0hjtqzx => 'Collect time:';
+	String get k_0hjm4ya => 'Issue time:';
+	String get k_02pm53k => 'Remarks:';
+	String get k_15zrx76 => 'Personal red envelope';
+	String get k_003pn1q => 'Send';
+	String get k_003qhoj => 'Received';
+	String get k_003loel => 'Details';
+	String get k_15ken91 => 'Select address';
+	String get k_003qdlq => 'Add';
+	String get k_0m49i5e => 'Please select an address';
+	String get k_0cftftk => 'OK Selected';
+	String get k_15h7hgn => 'My prize';
+	String get k_003rxj2 => 'Win the prize';
+	String get k_0004138 => 'times';
+	String get k_03gl6vo => 'Not winning';
+	String get k_02mnstm => 'To be confirmed';
+	String get k_02m48om => 'to be shipped';
+	String get k_03bcql4 => 'Issued';
+	String get k_176stij => 'Lottery Draw Record';
+	String get k_06uvhak => 'Harvest address confirmed';
+	String get k_12rxqup => 'Prize Details';
+	String get k_02m4875 => 'Shipped';
+	String get k_05lreie => 'Reward redemption instructions:\n1. Please confirm the delivery address so that we can send you the prize!\n2. Please note that the staff will not ask you for your account number and password.';
+	String get k_1gimnic => 'Select delivery address';
+	String get k_13mdgdf => 'Logistics Information';
+	String get k_0bz5qxd => 'Delivery time';
+	String get k_1643ht4 => 'Express Company';
+	String get k_165wkhq => 'Express tracking number';
+	String get k_03j8ulq => 'Consignee';
+	String get k_0gvsmf6 => 'Contact number';
+	String get k_15lhsw4 => 'Shipping Address';
+	String get k_12kwi6i => 'Forgot Password';
+	String get k_139hvwk => 'Hi, welcome to Feifei!';
+	String get k_12cz35y => 'Confirm the modification';
+	String get k_03bl1bs => 'Graphics code';
+	String get k_003pg1h => 'China';
+	String get k_0zei6y3 => 'Mainland China users';
+	String get k_0gx2hvj => 'Manual Authentication';
+	String get k_0vsuvrp => 'Non-Mainland China users';
+	String get k_176oa6w => 'Please select a region';
+	String get k_0iztiey => 'Please enter your name';
+	String get k_1ulmr9x => 'Please select a document type';
+	String get k_17ivr9h => 'Please enter the ID number';
+	String get k_0k2ghyn => 'Please upload ID photo';
+	String get k_02gkz6q => 'Please upload a photo with your ID in hand';
+	String get k_15wgmqm => 'Successful submission';
+	String get k_03c67bm => 'Please select';
+	String get k_03fkcas => 'Please enter';
+	String get k_02nltw2 => 'ID card';
+	String get k_003k692 => 'Passport';
+	String get k_1ufbmvz => 'Hold ID photo';
+	String get k_0gwzc1g => 'Submit Certification';
+	String get k_0f8cwpo => 'Authentication failed';
+	String get k_15wqp1j => 'Verification succeeded';
+	String get k_129vp54 => 'Authentication interrupted';
+	String get k_0gz64im => 'Network error';
+	String get k_0gyzkep => 'Time Error';
+	String get k_11o6a70 => 'Real-name authentication succeeded';
+	String get k_003pvnf => 'Name';
+	String get k_1ftut35 => 'Enter your name';
+	String get k_1sdfsp0 => 'ID card number';
+	String get k_0wkndha => 'Enter your ID number';
+	String get k_1y9bhhb => 'Please enter the correct name and ID number';
+	String get k_03eaqiz => 'Next step';
+	String get k_0llbd45 => 'According to relevant laws and regulations, registration can only be successful after completing real-name authentication';
+	String get k_003nbbe => 'Customer Service';
+	String get k_153slh1 => 'Free Registration';
+	String get k_1o0hgk5 => 'Forgot your password?';
+	String get k_1jmec3r => 'Verification code login';
+	String get k_003mfaa => 'Password';
+	String get k_16fluxb => 'Register with mobile phone number';
+	String get k_1nak7z8 => 'Please enter the SMS verification code';
+	String get k_1t9kzib => 'Please enter a password';
+	String get k_1hxitjy => 'Password length must be greater than 6 characters';
+	String get k_190gsmz => 'Please check the user agreement';
+	String get k_1k6nsc6 => 'Already have an account, log in';
+	String get k_0wonbyj => 'Select Country/Region';
+	String get k_003p7ir => 'Hong Kong';
+	String get k_003n0p8 => 'Japan';
+	String get k_002qqnq => 'Macao';
+	String get k_003l858 => 'Taiwan';
+	String get k_1cxw2as => 'The network is abnormal, please check your network!';
+	String get k_1h008je => 'Server exception!';
+	String get k_1bqypqk => 'Connection timed out!';
+	String get k_14n1r3i => 'Cancel Request';
+	String get k_16anqj4 => 'Unknown exception';
+	String get k_0ofjb4m => 'Request address error';
+	String get k_019l7v9 => 'The voice message is too short, sending failed';
+	String get k_1iq7dqo => 'The network is abnormal, please check the mobile phone network';
+	String get k_1qftopu => 'Sorry, because there are too many historical messages, the original message cannot be located';
+	String get k_0v1x48s => 'Insufficient device storage space';
+	String get k_04kxdio => 'Received unsupported video format (only MP4 format is supported)';
+	String get k_0jqg56q => 'Group name does not exceed 10 Chinese characters';
+	String get k_04vttkw => 'You are not in this group';
+	String get k_1sv9ozd => 'Insufficient group operation permissions';
+	String get k_1o5hokj => 'Verification has expired';
+	String get k_0gz4ni4 => 'Unknown error';
+	String get k_1outzsa => 'The message content is too large, sending failed!';
+	String get k_05tl6ah => 'The group has been disbanded';
+	String get k_1hj1unp => 'You have been banned';
+	String get k_0ybsani => 'Invalid message';
+	String get k_0t1vzz7 => 'Chat service signature exception';
+	String get k_0uxhld5 => 'The request is too frequent, please try again later';
+	String get k_0bb5lc8 => 'The account has been blocked';
+	String get k_1klyit4 => 'The requested account does not exist';
+	String get k_1mh4f77 => 'Login is restricted due to security reasons, please do not log in frequently.';
+	String get k_1iz0d7e => 'The internal server timed out, please try again later.';
+	String get k_17gz72e => 'The batch quantity in the request is invalid.';
+	String get k_0b2n04j => 'The version you are using is too low, please upgrade to the latest version.';
+	String get k_1ao2s3n => 'Insufficient permissions, the operation failed.';
+	String get k_0b9gj3x => 'Please upgrade the chat service';
+	String get k_0l8awjd => 'Concurrent users are too high, please contact customer service';
+	String get k_1urnn0n => 'Do not log in and out frequently';
+	String get k_1p6dcs6 => 'The network environment is abnormal, please check the network connection';
+	String get k_0ptfjkx => 'The other party has blocked you';
+	String get k_0iltsr2 => 'The login status is abnormal, please log in again';
+	String get k_0yk4kjq => 'Message not found';
+	String get k_0n9piov => 'The message does not exist';
+	String get k_0c786uw => 'Failed to connect to instant messaging service';
+	String get k_1hmfp8h => 'Connecting to instant messaging service';
+	String get k_0xyf58f => 'Login status has expired, please log in again';
+	String get k_1tyzgij => 'Token expiration, please log in again';
+	String get k_1g50ztv => 'Initialization of instant messaging service failed';
+	String get k_0quxvmc => 'Please enter the payment password';
+	String get k_160sb5e => 'Send red packets';
+	String get k_12kxh3j => 'Verify Password';
+	String get k_125wb4w => 'Pull down to refresh';
+	String get k_125pk70 => 'Release to refresh';
+	String get k_13fa0ke => 'Refresh complete';
+	String get k_1jxgrp7 => 'Loading...';
+	String get k_0v5ilv9 => 'Pull up to load more';
+	String get k_0v5swmg => 'Release to load more';
+	String get k_0cr7hfh => 'No more data';
+	String get k_15wbgq5 => 'Refresh successfully';
+	String get k_1jwyge9 => 'Refreshing...';
+	String get k_1rlopig => '[Official account article]';
+	String get k_1nmlx8k => '[Live Voice]';
+	String get k_0y7hb2c => '[Red envelope]';
+	String get k_0y1agsp => '[Business card]';
 	String get k_03ckc9x => 'Sweep';
 	String get k_002tme4 => 'collection';
 	String get k_003qio2 => 'red envelope';
@@ -2459,10 +2459,10 @@ class _StringsJa implements _StringsEn {
 	@override String get k_0ej3rpa => '请设置您的支付密码';
 	@override String get k_0dh17j8 => '请确认您的支付密码';
 	@override String get k_0po9pww => '您已成功设置支付密码';
-	@override String get k_02zez2y => '【图】';
-	@override String get k_0r9344n => '【位置】';
-	@override String get k_0rqux0a => '【语音】';
-	@override String get k_0rpkyk3 => '【视频】';
+	@override String get k_02zez2y => '[图片]';
+	@override String get k_0r9344n => '[位置]';
+	@override String get k_0rqux0a => '[语音]';
+	@override String get k_0rpkyk3 => '[视频]';
 	@override String get k_0g26flq => '数据解析错误';
 	@override String get k_0zrqsp7 => '插入数据库失败';
 	@override String get k_1f8pdit => '本地文件不存在';
@@ -3718,10 +3718,10 @@ class _StringsKo implements _StringsEn {
 	@override String get k_0ej3rpa => '请设置您的支付密码';
 	@override String get k_0dh17j8 => '请确认您的支付密码';
 	@override String get k_0po9pww => '您已成功设置支付密码';
-	@override String get k_02zez2y => '【图】';
-	@override String get k_0r9344n => '【位置】';
-	@override String get k_0rqux0a => '【语音】';
-	@override String get k_0rpkyk3 => '【视频】';
+	@override String get k_02zez2y => '[图片]';
+	@override String get k_0r9344n => '[位置]';
+	@override String get k_0rqux0a => '[语音]';
+	@override String get k_0rpkyk3 => '[视频]';
 	@override String get k_0g26flq => '数据解析错误';
 	@override String get k_0zrqsp7 => '插入数据库失败';
 	@override String get k_1f8pdit => '本地文件不存在';
@@ -4977,10 +4977,10 @@ class _StringsZhHans implements _StringsEn {
 	@override String get k_0ej3rpa => '请设置您的支付密码';
 	@override String get k_0dh17j8 => '请确认您的支付密码';
 	@override String get k_0po9pww => '您已成功设置支付密码';
-	@override String get k_02zez2y => '【图】';
-	@override String get k_0r9344n => '【位置】';
-	@override String get k_0rqux0a => '【语音】';
-	@override String get k_0rpkyk3 => '【视频】';
+	@override String get k_02zez2y => '[图片]';
+	@override String get k_0r9344n => '[位置]';
+	@override String get k_0rqux0a => '[语音]';
+	@override String get k_0rpkyk3 => '[视频]';
 	@override String get k_0g26flq => '数据解析错误';
 	@override String get k_0zrqsp7 => '插入数据库失败';
 	@override String get k_1f8pdit => '本地文件不存在';
@@ -6236,10 +6236,10 @@ class _StringsZhHant implements _StringsEn {
 	@override String get k_0ej3rpa => '请设置您的支付密码';
 	@override String get k_0dh17j8 => '请确认您的支付密码';
 	@override String get k_0po9pww => '您已成功设置支付密码';
-	@override String get k_02zez2y => '【图】';
-	@override String get k_0r9344n => '【位置】';
-	@override String get k_0rqux0a => '【语音】';
-	@override String get k_0rpkyk3 => '【视频】';
+	@override String get k_02zez2y => '[图片]';
+	@override String get k_0r9344n => '[位置]';
+	@override String get k_0rqux0a => '[语音]';
+	@override String get k_0rpkyk3 => '[视频]';
 	@override String get k_0g26flq => '数据解析错误';
 	@override String get k_0zrqsp7 => '插入数据库失败';
 	@override String get k_1f8pdit => '本地文件不存在';
@@ -7344,7 +7344,7 @@ extension on _StringsEn {
 			'k_1h72tsh': 'Network exception, please try again',
 			'k_03flgeh': 'Official account',
 			'k_1yzk62i': 'We\'re already friends, let\'s start chatting',
-			'k_003l8z3': 'prompt',
+			'k_003l8z3': 'Prompt',
 			'k_1kg35h1': 'Are you sure to join the blacklist?',
 			'k_10gl02v': 'Burn immediately after reading',
 			'k_0yis13c': 'Mix ID',
@@ -7385,230 +7385,230 @@ extension on _StringsEn {
 			'k_0bt7060': 'Add a recording',
 			'k_0d76g15': 'Add a video',
 			'k_18nfka7': 'Add files',
-			'k_0a54f1h': '请先开启麦克风权限',
-			'k_0bo1u32': '未获取到麦克风权限',
-			'k_003pb7f': '停止',
-			'k_003qa9o': '试听',
-			'k_003toof': '上传',
-			'k_1nmvqz8': '下载前可以',
-			'k_0fiplvi': '在线预览',
-			'k_002vqvn': '下载',
-			'k_0qxabgo': '文件打开成功',
-			'k_08gfdgh': '文件获取失败',
-			'k_07iexsx': '获取文件失败',
-			'k_15wcvlb': '保存成功',
-			'k_0f7godw': '保存失败',
-			'k_19631kn': '搜索公众号',
-			'k_1xsyhhk': '请输入公众号',
-			'k_1cmcy09': '请输入飞飞ID',
-			'k_03cu3iz': '无数据',
-			'k_003o01q': '举报',
-			'k_0c2ktgj': '是否允许加好友',
-			'k_0fzhwlh': '查看成员卡片',
-			'k_03i75gl': '发文件',
-			'k_126srsq': '发起直播',
-			'k_1urvrjb': '发起多人音视频',
-			'k_039wkpq': '发名片',
-			'k_12dgatm': '通知设置',
-			'k_0fqvx2o': '进群确认',
-			'k_1gswiy2': '群共享文件',
-			'k_0h0v00j': '入群邀请',
-			'k_15aj6d3': '邀请加入',
-			'k_0gw8b4w': '入群申请',
-			'k_0zzg6cj': '申请处理',
-			'k_15e0u49': '普通成员',
-			'k_12cnjgm': '权限设置',
-			'k_15apva3': '自由加入',
-			'k_197dy3c': '被邀请入群',
-			'k_1kkr2to': '主动退出群组',
-			'k_03awhzt': '踢出群',
-			'k_0k60yv8': '取消管理员',
-			'k_0gh20j4': '群资料变更',
-			'k_039xu3b': '不通知',
-			'k_1oujmw9': '通知所有人',
-			'k_11mxo4q': '设置群头像',
-			'k_1iy346s': '上传截图证明',
-			'k_003tywh': '提交',
-			'k_0cacu3a': '内容不适',
-			'k_11ube90': '色情淫秽',
-			'k_12kwys1': '违法违禁',
-			'k_15ga9hy': '涉嫌赌博',
-			'k_12sj7v5': '政治敏感',
-			'k_0e9g6py': '恐怖血腥',
-			'k_10yi2by': '存在欺诈诈骗行为',
-			'k_03ot5di': '此账号可能被盗用',
-			'k_1aeh9cl': '存在侵权行为',
-			'k_1bpn4r9': '发布仿冒品信息',
-			'k_15icxth': '其他类型',
-			'k_0seu397': '请输入详细原因',
-			'k_0fzqymt': '请选择举报内容',
-			'k_1xn61l8': '请上传举报证明',
-			'k_15wc0r5': '举报成功',
-			'k_12qciuw': '群二维码',
-			'k_1jxdqeu': '发送中...',
-			'k_0f8duyp': '发送失败',
-			'k_15wgku3': '操作成功',
-			'k_1jj05h6': '当前有正在直播的语音',
-			'k_0dgxvof': '直播主题',
-			'k_03fav83': '发红包',
-			'k_126vp1e': '语音直播',
-			'k_0ghh1y6': '请输入直播主题',
-			'k_15gs0jl': '暂无公告',
-			'k_15wt6wj': '收藏成功',
-			'k_13oyd7s': '添加收藏成功',
-			'k_161c5a4': '了群头像',
-			'k_16rluj4': ({required Object option7}) => '$option7转让',
-			'k_003pvbe': '开启',
-			'k_0gjgbvq': '群直播已结束',
-			'k_0mrp7iw': '发起了群直播',
-			'k_0002zhq': '開',
-			'k_0gogp0f': '全体禁言',
-			'k_09alugs': '添加好友失败',
-			'k_1o30vhe': '当前会员等级好友数已满',
-			'k_06eh4yj': '未查找到用户',
-			'k_0f7mfyn': '搜索失败',
-			'k_0niczuj': '搜索飞飞ID添加好友',
-			'k_1iyn5bc': '暂无群简介',
-			'k_0g9bs1l': '修改群头像失败',
-			'k_11msmfh': '修改群头像',
-			'k_1qjt0hb': '修改群组名称',
-			'k_0r57zuq': '仅限中文、字母、数字和下划线，2-10个字',
-			'k_11k8p3s': '群组名称',
-			'k_0gmqf8i': '选择会话',
-			'k_16kvge2': '手机登录',
-			'k_16knhyf': '短信登录',
-			'k_07nzkry': '新用户注册',
-			'k_15wpiai': '发送成功',
-			'k_12vte5o': '发送给朋友',
-			'k_003lxmq': '刷新',
-			'k_0ohfu6d': '设置支付密码',
-			'k_0ej3rpa': '请设置您的支付密码',
-			'k_0dh17j8': '请确认您的支付密码',
-			'k_0po9pww': '您已成功设置支付密码',
-			'k_02zez2y': '【图】',
-			'k_0r9344n': '【位置】',
-			'k_0rqux0a': '【语音】',
-			'k_0rpkyk3': '【视频】',
-			'k_0g26flq': '数据解析错误',
-			'k_0zrqsp7': '插入数据库失败',
-			'k_1f8pdit': '本地文件不存在',
-			'k_0v0esah': '数据库未就绪',
-			'k_0xi281v': '消息不存在或已过期',
-			'k_002rldn': '语音',
-			'k_1f8nsui': '没有收藏数据',
-			'k_0xvupi9': '文件下载中...',
-			'k_004all8': '扫一扫上面的二维码图案，添加我为好友',
-			'k_03ep2vw': '未实名',
-			'k_03ep7us': '已实名',
-			'k_003q1na': '签名',
-			'k_1ymiwcp': '我的二维码',
-			'k_003pv7a': '实名',
-			'k_15amhkh': '提现钱包',
-			'k_03gm54s': '已绑定',
-			'k_03gltpg': '未绑定',
-			'k_13mdvb1': '基本信息',
-			'k_161gu2w': '更换头像',
-			'k_13328o1': '请输入昵称',
-			'k_1333dp6': '出生日期',
-			'k_131st9d': '我的手机',
-			'k_03aj4qb': '邀请码',
-			'k_1k8vgsg': '用户性别已更新',
-			'k_03ryale': '个性签名已经更新',
-			'k_1nha9xl': '生日已更新',
-			'k_103c4lg': '请输入有效的昵称',
-			'k_0ksndzs': '修改昵称成功',
-			'k_1l7tupj': '用户头像已更新',
-			'k_1721fl6': '国家与地区',
-			'k_16og9w6': '认证方式',
-			'k_15gxxbu': '真实姓名',
-			'k_15dr9ut': '身份证号',
-			'k_0bz6nk2': '认证时间',
-			'k_0gw1fm7': '刷脸认证',
-			'k_0gx4703': '实名认证',
-			'k_117b2ya': '证件照片',
-			'k_002qf2c': '正面',
-			'k_002qjqi': '反面',
-			'k_0qfvxug': '手持证件照片',
-			'k_15ibx7m': '证件类型',
-			'k_12j5aqs': '证件号码',
-			'k_11s4bth': '我的昵称',
-			'k_0c0g0j3': '聊天时长',
-			'k_0rejurv': '无需重复签到',
-			'k_002qtik': '时长',
-			'k_0c0m523': '在线时长',
-			'k_003qqtv': '好友',
-			'k_1wjkbgk': '邀请的人成为会员',
-			'k_15l8f24': '发朋友圈',
-			'k_002wpbv': '评论',
-			'k_0gxt7rc': '回复评论',
-			'k_002urj6': '点赞',
-			'k_002ws2a': '邀请',
-			'k_153t5km': '邀请注册',
-			'k_10c2s43': '转发公众号文章',
-			'k_10ca4r4': '阅读公众号文章',
-			'k_003ph29': '注册',
-			'k_15m5gx9': '成为会员',
-			'k_1751r8w': '群成员达标',
-			'k_13s9xiv': '发群消息',
-			'k_16uci5t': '任务中心',
-			'k_1g5b64b': '做任务得积分',
-			'k_03ejxmv': '已领取',
-			'k_0az6qko': '该任务仅对Vip用户开放',
-			'k_03cho97': '已完成',
+			'k_0a54f1h': 'Please turn on the microphone permission first',
+			'k_0bo1u32': 'Microphone permission not obtained',
+			'k_003pb7f': 'Stop',
+			'k_003qa9o': 'Audit',
+			'k_003toof': 'Upload',
+			'k_1nmvqz8': 'Can be downloaded before',
+			'k_0fiplvi': 'Online preview',
+			'k_002vqvn': 'Download',
+			'k_0qxabgo': 'File opened successfully',
+			'k_08gfdgh': 'Failed to get file',
+			'k_07iexsx': 'Failed to get file',
+			'k_15wcvlb': 'Saved successfully',
+			'k_0f7godw': 'Failed to save',
+			'k_19631kn': 'Search official account',
+			'k_1xsyhhk': 'Please enter the official account',
+			'k_1cmcy09': 'Please enter Feifei ID',
+			'k_03cu3iz': 'No data',
+			'k_003o01q': 'Report',
+			'k_0c2ktgj': 'Is it allowed to add friends',
+			'k_0fzhwlh': 'View member card',
+			'k_03i75gl': 'Send files',
+			'k_126srsq': 'Initiate live broadcast',
+			'k_1urvrjb': 'Initiate multi-person audio and video',
+			'k_039wkpq': 'Send business card',
+			'k_12dgatm': 'Notification Settings',
+			'k_0fqvx2o': 'Enter group confirmation',
+			'k_1gswiy2': 'Group shared files',
+			'k_0h0v00j': 'Group invitation',
+			'k_15aj6d3': 'Invite to join',
+			'k_0gw8b4w': 'Application for joining the group',
+			'k_0zzg6cj': 'Application Processing',
+			'k_15e0u49': 'Ordinary Member',
+			'k_12cnjgm': 'Permission Settings',
+			'k_15apva3': 'Free to join',
+			'k_197dy3c': 'Invited to join the group',
+			'k_1kkr2to': 'Actively quit the group',
+			'k_03awhzt': 'Kick out the group',
+			'k_0k60yv8': 'Cancel Administrator',
+			'k_0gh20j4': 'Group data change',
+			'k_039xu3b': 'No notification',
+			'k_1oujmw9': 'Notify everyone',
+			'k_11mxo4q': 'Set group avatar',
+			'k_1iy346s': 'Upload Screenshot Proof',
+			'k_003tywh': 'Submit',
+			'k_0cacu3a': 'Inappropriate content',
+			'k_11ube90': 'Pornographic obscenity',
+			'k_12kwys1': 'Illegal and prohibited',
+			'k_15ga9hy': 'Suspected of gambling',
+			'k_12sj7v5': 'Political Sensitive',
+			'k_0e9g6py': 'Horror bloody',
+			'k_10yi2by': 'There is fraud and fraud',
+			'k_03ot5di': 'This account may be stolen',
+			'k_1aeh9cl': 'There is infringement',
+			'k_1bpn4r9': 'Publish counterfeit information',
+			'k_15icxth': 'Other types',
+			'k_0seu397': 'Please enter detailed reason',
+			'k_0fzqymt': 'Please select the report content',
+			'k_1xn61l8': 'Please upload the report certificate',
+			'k_15wc0r5': 'Report successful',
+			'k_12qciuw': 'Group QR code',
+			'k_1jxdqeu': 'Sending...',
+			'k_0f8duyp': 'Failed to send',
+			'k_15wgku3': 'Operation succeeded',
+			'k_1jj05h6': 'There is currently a live broadcast',
+			'k_0dgxvof': 'Live Topic',
+			'k_03fav83': 'Send red envelopes',
+			'k_126vp1e': 'Voice Live',
+			'k_0ghh1y6': 'Please enter the subject of the live broadcast',
+			'k_15gs0jl': 'No announcement yet',
+			'k_15wt6wj': 'Saved successfully',
+			'k_13oyd7s': 'Favorite added successfully',
+			'k_161c5a4': 'Group Avatar',
+			'k_16rluj4': ({required Object option7}) => '$option7 transfer',
+			'k_003pvbe': 'On',
+			'k_0gjgbvq': 'Group live broadcast has ended',
+			'k_0mrp7iw': 'Initiated a group live broadcast',
+			'k_0002zhq': 'On',
+			'k_0gogp0f': 'Mute all',
+			'k_09alugs': 'Failed to add friends',
+			'k_1o30vhe': 'The number of friends at the current membership level is full',
+			'k_06eh4yj': 'No user found',
+			'k_0f7mfyn': 'Search failed',
+			'k_0niczuj': 'Search Feifei ID to add friends',
+			'k_1iyn5bc': 'No group profile yet',
+			'k_0g9bs1l': 'Failed to modify group avatar',
+			'k_11msmfh': 'Modify group avatar',
+			'k_1qjt0hb': 'Modify group name',
+			'k_0r57zuq': 'Only Chinese, letters, numbers and underscores, 2-10 characters',
+			'k_11k8p3s': 'Group name',
+			'k_0gmqf8i': 'Select session',
+			'k_16kvge2': 'Mobile phone login',
+			'k_16knhyf': 'SMS login',
+			'k_07nzkry': 'New user registration',
+			'k_15wpiai': 'Send successfully',
+			'k_12vte5o': 'Send to a friend',
+			'k_003lxmq': 'Refresh',
+			'k_0ohfu6d': 'Set payment password',
+			'k_0ej3rpa': 'Please set your payment password',
+			'k_0dh17j8': 'Please confirm your payment password',
+			'k_0po9pww': 'You have successfully set the payment password',
+			'k_02zez2y': '[Picture]',
+			'k_0r9344n': '[Location]',
+			'k_0rqux0a': '[Voice]',
+			'k_0rpkyk3': '[Video]',
+			'k_0g26flq': 'Data parsing error',
+			'k_0zrqsp7': 'Failed to insert into database',
+			'k_1f8pdit': 'Local file does not exist',
+			'k_0v0esah': 'Database not ready',
+			'k_0xi281v': 'The message does not exist or has expired',
+			'k_002rldn': 'Voice',
+			'k_1f8nsui': 'No collection data',
+			'k_0xvupi9': 'File downloading...',
+			'k_004all8': 'Scan the QR code above and add me as a friend',
+			'k_03ep2vw': 'Unverified',
+			'k_03ep7us': 'Realized',
+			'k_003q1na': 'Signature',
+			'k_1ymiwcp': 'My QR code',
+			'k_003pv7a': 'Real Name',
+			'k_15amhkh': 'Withdraw wallet',
+			'k_03gm54s': 'Bound',
+			'k_03gltpg': 'Unbound',
+			'k_13mdvb1': 'Basic information',
+			'k_161gu2w': 'Change avatar',
+			'k_13328o1': 'Please enter a nickname',
+			'k_1333dp6': 'Date of Birth',
+			'k_131st9d': 'My phone',
+			'k_03aj4qb': 'Invitation Code',
+			'k_1k8vgsg': 'User gender has been updated',
+			'k_03ryale': 'The signature has been updated',
+			'k_1nha9xl': 'Birthday updated',
+			'k_103c4lg': 'Please enter a valid nickname',
+			'k_0ksndzs': 'Nickname changed successfully',
+			'k_1l7tupj': 'User profile picture has been updated',
+			'k_1721fl6': 'Country and Region',
+			'k_16og9w6': 'Authentication method',
+			'k_15gxxbu': 'real name',
+			'k_15dr9ut': 'ID card number',
+			'k_0bz6nk2': 'Authentication time',
+			'k_0gw1fm7': 'Face authentication',
+			'k_0gx4703': 'Real-name authentication',
+			'k_117b2ya': 'ID photo',
+			'k_002qf2c': 'Front',
+			'k_002qjqi': 'Negative',
+			'k_0qfvxug': 'Holding ID photo',
+			'k_15ibx7m': 'Certificate Type',
+			'k_12j5aqs': 'Document number',
+			'k_11s4bth': 'My Nickname',
+			'k_0c0g0j3': 'Chat duration',
+			'k_0rejurv': 'No need to repeat check-in',
+			'k_002qtik': 'Duration',
+			'k_0c0m523': 'Online Time',
+			'k_003qqtv': 'Friends',
+			'k_1wjkbgk': 'Invited people become members',
+			'k_15l8f24': 'Send to Moments',
+			'k_002wpbv': 'Comment',
+			'k_0gxt7rc': 'Reply to comment',
+			'k_002urj6': 'Like',
+			'k_002ws2a': 'Invitation',
+			'k_153t5km': 'Invitation to register',
+			'k_10c2s43': 'Forward official account articles',
+			'k_10ca4r4': 'Read official account articles',
+			'k_003ph29': 'Registration',
+			'k_15m5gx9': 'Become a member',
+			'k_1751r8w': 'Group members up to standard',
+			'k_13s9xiv': 'Send group messages',
+			'k_16uci5t': 'Mission Center',
+			'k_1g5b64b': 'Get points for doing tasks',
+			'k_03ejxmv': 'Received',
+			'k_0az6qko': 'This task is only open to VIP users',
+			'k_03cho97': 'Completed',
 			'k_003qcq4': 'integral',
-			'k_06kyva3': ({required Object option2}) => '您的朋友『$option2』邀请您注册飞飞账号，',
-			'k_02ny1h7': '去认证',
-			'k_03ejkrf': '去加入',
-			'k_03f610l': '去添加',
-			'k_02o1zhl': '去邀请',
-			'k_03dg4px': '去关注',
-			'k_03emucj': '去转发',
-			'k_02o2pc0': '去阅读',
-			'k_02iti5q': '去发送',
-			'k_02nys68': '去评论',
-			'k_02m6zdl': '去点赞',
-			'k_03gopzh': '去回复',
-			'k_03fncin': '去创建',
-			'k_03chwpf': '未完成',
-			'k_03gvqnx': '去聊天',
-			'k_03chmbm': '去完成',
-			'k_15uonw9': '我的积分',
-			'k_036xcpf': '商城 >',
-			'k_0w9mjlu': '您已连续签到',
-			'k_00043v0': '天',
-			'k_15u268j': '立即签到',
-			'k_003r45i': '今天',
+			'k_06kyva3': ({required Object option2}) => 'Your friend『$option2』invited you to register Feifei account,',
+			'k_02ny1h7': 'Go to authentication',
+			'k_03ejkrf': 'Go to join',
+			'k_03f610l': 'To add',
+			'k_02o1zhl': 'Go to invite',
+			'k_03dg4px': 'Go to follow',
+			'k_03emucj': 'To forward',
+			'k_02o2pc0': 'Go to read',
+			'k_02iti5q': 'Go send',
+			'k_02nys68': 'Go to comment',
+			'k_02m6zdl': 'Go to Like',
+			'k_03gopzh': 'Go to reply',
+			'k_03fncin': 'Go create',
+			'k_03chwpf': 'Unfinished',
+			'k_03gvqnx': 'Go chat',
+			'k_03chmbm': 'Go to finish',
+			'k_15uonw9': 'My points',
+			'k_036xcpf': 'Mall >',
+			'k_0w9mjlu': 'You have logged in continuously',
+			'k_00043v0': 'day',
+			'k_15u268j': 'Sign in now',
+			'k_003r45i': 'Today',
 			'k_10obo7h': 'Lucky Blind Box',
 			'k_15nmzxg': 'Points Mall',
-			'k_11y1zc4': '积分明细',
-			'k_1cjm4qi': '积分有什么用？',
-			'k_0vlxmxp': '积分可以在飞飞商城内购买商品，同时可以兑换不同种类的券',
-			'k_0c882f8': '关于积分获取的途径',
-			'k_13s083e': ({required Object option1}) => '聊天时长：$option1分钟',
-			'k_0u6amsz': ({required Object option1}) => '领取积分 $option1分钟',
-			'k_1p62y99': ({required Object time}) => '$time分钟',
-			'k_15ween8': '签到成功',
-			'k_11y595m': '交易明细',
-			'k_15vsaj1': '去赚积分',
-			'k_0p493se': '邀请链接已复制在剪贴板\n去发送给朋友吧',
-			'k_003lz44': '官方',
+			'k_11y1zc4': 'Points Details',
+			'k_1cjm4qi': 'What are the points for?',
+			'k_0vlxmxp': 'Points can be used to purchase goods in Feifei Mall, and can be exchanged for different types of coupons',
+			'k_0c882f8': 'About the way to obtain points',
+			'k_13s083e': ({required Object option1}) => 'Chat duration: $option1 minute',
+			'k_0u6amsz': ({required Object option1}) => 'Receive points $option1 minute',
+			'k_1p62y99': ({required Object time}) => '$time minutes',
+			'k_15ween8': 'Sign in successfully',
+			'k_11y595m': 'Transaction Details',
+			'k_15vsaj1': 'To earn points',
+			'k_0p493se': 'The invitation link has been copied in the clipboard\ngo and send it to a friend',
+			'k_003lz44': 'Official',
 			'k_003q45p': 'shopping centre',
-			'k_003niz6': '游戏',
-			'k_003q73z': '任务',
-			'k_133nceo': '月份选择',
-			'k_02otdke': '消费：',
-			'k_02ps7ik': '收入：',
-			'k_0dhydu0': '积分余额',
-			'k_0l172kk': ({required Object option1}) => '积分余额：$option1',
-			'k_1961naj': '暂无公众号',
-			'k_0ro5oul': '清空双方的聊天记录',
-			'k_13p53gl': '聊天背景',
-			'k_12dodee': '聊天设置',
-			'k_1jx0mc6': '领取中...',
+			'k_003niz6': 'Game',
+			'k_003q73z': 'Task',
+			'k_133nceo': 'Month Selection',
+			'k_02otdke': 'Consumption:',
+			'k_02ps7ik': 'Income:',
+			'k_0dhydu0': 'Point balance',
+			'k_0l172kk': ({required Object option1}) => 'Point balance: $option1',
+			'k_1961naj': 'No official account yet',
+			'k_0ro5oul': 'Clear the chat history of both parties',
+			'k_13p53gl': 'Chat Background',
+			'k_12dodee': 'Chat Settings',
+			'k_1jx0mc6': 'Receiving...',
 			'k_0d19a3e': 'About MixChat',
-			'k_1hfsmdv': ({required Object option1}) => '当前版本：$option1',
-			'k_11s0kgy': '暂无昵称',
-			'k_0zamm8m': ({required Object timeStr}) => '会员到期：$timeStr',
+			'k_1hfsmdv': ({required Object option1}) => 'Current version: $option1',
+			'k_11s0kgy': 'No nickname yet',
+			'k_0zamm8m': ({required Object timeStr}) => 'Membership expires: $timeStr',
 			'k_16oyobn': 'Night mode',
 			'k_0za5blj': 'Notifications and sounds',
 			'k_166akhw': 'Invite friends',
@@ -7618,240 +7618,240 @@ extension on _StringsEn {
 			'k_003pp1t': 'wallet',
 			'k_003pvma': 'Order',
 			'k_003qcnq': 'activity',
-			'k_15ang3o': '我的钱包',
-			'k_1gnu9ra': '我的USDT',
-			'k_003qjuk': '充值',
-			'k_003l46d': '提现',
-			'k_15wemfn': '充值成功',
-			'k_1vqvg0y': '请向以下地址转入USDT',
-			'k_15we8ep': '复制成功',
-			'k_0b4wh2e': '转账完成后，请在下方输入交易Token',
-			'k_1jqn9ih': '交易Token',
-			'k_002uu5l': '粘贴',
-			'k_0f8q3nj': '充值入账',
-			'k_03f6511': '提现到',
-			'k_0pklv2t': '请先绑定钱包地址',
-			'k_0d3x98p': '提现金额',
-			'k_068m6qw': '请输入金额',
-			'k_02yrsp6': ({required Object option1}) => '当前余额 $option1元',
-			'k_0foqurj': '余额不足',
-			'k_11h7h7p': '全部提现',
-			'k_0epwkn5': '请输入正确的提现金额',
-			'k_15w96ru': '提现成功',
-			'k_003nqkz': '更换',
-			'k_003ry6m': '绑定',
-			'k_003py1h': '类型',
-			'k_003q0mt': '地址',
-			'k_11y0i55': '钱包明细',
-			'k_134pvev': '时间选择',
-			'k_15aundm': '绑定钱包',
-			'k_15iimbl': '钱包类型',
-			'k_14bvx6m': '钱包备注',
-			'k_09equn4': '请输入钱包地址',
-			'k_13jsfpy': '请选择钱包类型',
-			'k_0uy7vvj': '请输入钱包备注',
-			'k_11wem41': '跟随系统',
-			'k_16on03j': '白天模式',
-			'k_16os0uz': '设置模式',
-			'k_16loi3t': '字体大小',
-			'k_0aocx45': '预览字体大小',
-			'k_00043ai': '小',
-			'k_003pkuc': '标准',
-			'k_00043uq': '大',
-			'k_1e2o09m': '通知显示消息详情',
-			'k_0nu1yos': '前往系统设置',
-			'k_112pkbh': '消息通知',
-			'k_0tg0hol': '聊天界面消息提示',
-			'k_1s63iqw': '聊天界面语音和视频通话提醒',
-			'k_0ekexfa': '语音和视频通话提醒音',
-			'k_1ms5id3': '消息通知提示',
-			'k_0h77bwt': '切换语言',
-			'k_12kotxx': '修改密码',
-			'k_0ohliw2': '修改支付密码',
-			'k_0ss301w': '请输入旧密码',
-			'k_0sqq0kz': '请输入新密码',
-			'k_1a1c08v': '请再次输入新密码',
-			'k_16a3xme': '选择铃声',
-			'k_002v2m1': '默认',
-			'k_003jf1x': '来电',
-			'k_002rdrs': '优雅',
-			'k_003kvau': '轻盈',
-			'k_003rbbb': '愉快',
-			'k_1uslpqg': '确定清空所有聊天记录,清除后将不可恢复！',
-			'k_1r1zwum': '聊天记录已清空',
-			'k_148ihfp': '确定清空所有缓存数据吗',
-			'k_1ko89xf': '缓存已清空',
-			'k_1y4m6ll': '登录密码已修改',
-			'k_1y4q4r4': '支付密码已修改',
-			'k_18n0wgy': '聊天字体',
-			'k_172ymi7': '清除缓存',
-			'k_1c88jkl': '清空所有聊天记录',
-			'k_00fp373': '聊天记录备份和迁移',
-			'k_12kh1kc': '登录密码',
-			'k_12kjxn9': '支付密码',
-			'k_0c0iy96': '帐号注销',
-			'k_0yngxez': '注销后，您将无法使用当前账号，相关数据也将删除且无法找回。',
-			'k_0c0nex3': '继续注销',
-			'k_0k58icw': '退出当前账号',
-			'k_1t2qn6k': '我发出的红包',
-			'k_16000bb': '我的红包',
-			'k_10esx8g': '收到的红包',
-			'k_02oubz4': '数量：',
-			'k_02psrbq': 'integral：',
-			'k_12b45i0': '红包个数',
-			'k_1g49dbx': '请填写红包个数',
-			'k_00046tr': '个',
-			'k_02jsbaq': '总金额',
-			'k_002s44p': '金额',
-			'k_19u8qtn': '恭喜发财，大吉大利',
-			'k_1jzucnx': '发红包...',
-			'k_11l6ib2': '温馨提示',
-			'k_0v6os6k': '您还未设置支付密码，请先设置支付密码',
-			'k_03bcscu': '去设置',
-			'k_1ey4n63': '请填写红包金额',
-			'k_1x36072': '红包个数必须大于1',
-			'k_11kbq7a': '红包金额必须大于0.01',
-			'k_114aic6': '塞钱进红包',
-			'k_12rwge9': '红包详情',
-			'k_0hjtqzx': '领取时间：',
-			'k_0hjm4ya': '发放时间：',
-			'k_02pm53k': '备注：',
-			'k_15zrx76': '个人红包',
-			'k_003pn1q': '发出',
-			'k_003qhoj': '收到',
-			'k_003loel': '明细',
-			'k_15ken91': '选择地址',
-			'k_003qdlq': '添加',
-			'k_0m49i5e': '请选择地址',
-			'k_0cftftk': '确定所选',
-			'k_15h7hgn': '我的奖品',
-			'k_003rxj2': '中奖',
-			'k_0004138': '次',
-			'k_03gl6vo': '未中奖',
-			'k_02mnstm': '待确认',
-			'k_02m48om': '待发货',
-			'k_03bcql4': '已发放',
-			'k_176stij': '抽奖记录',
-			'k_06uvhak': '收获地址已确认',
-			'k_12rxqup': '奖品详情',
-			'k_02m4875': '已发货',
-			'k_05lreie': '兑奖须知：\n1.请确认收货地址，以便我们为您寄送奖品！\n2.请注意，工作人员不会向您索取账号和密码。',
-			'k_1gimnic': '选择收货地址',
-			'k_13mdgdf': '物流信息',
-			'k_0bz5qxd': '发货时间',
-			'k_1643ht4': '快递公司',
-			'k_165wkhq': '快递单号',
-			'k_03j8ulq': '收货人',
-			'k_0gvsmf6': '联系电话',
-			'k_15lhsw4': '收货地址',
-			'k_12kwi6i': '忘记密码',
-			'k_139hvwk': '您好，欢迎来到飞飞！',
-			'k_12cz35y': '确定修改',
-			'k_03bl1bs': '图形码',
-			'k_003pg1h': '中国',
-			'k_0zei6y3': '中国大陆用户',
-			'k_0gx2hvj': '人工认证',
-			'k_0vsuvrp': '非中国大陆用户',
-			'k_176oa6w': '请选择地区',
-			'k_0iztiey': '请输入姓名',
-			'k_1ulmr9x': '请选择证件类型',
-			'k_17ivr9h': '请输入证件号码',
-			'k_0k2ghyn': '请上传证件照片',
-			'k_02gkz6q': '请上传手持证件照',
-			'k_15wgmqm': '提交成功',
-			'k_03c67bm': '请选择',
-			'k_03fkcas': '请输入',
-			'k_02nltw2': '身份证',
-			'k_003k692': '护照',
-			'k_1ufbmvz': '手持证件照',
-			'k_0gwzc1g': '提交认证',
-			'k_0f8cwpo': '验证失败',
-			'k_15wqp1j': '验证成功',
-			'k_129vp54': '验证中断',
-			'k_0gz64im': '网络错误',
-			'k_0gyzkep': '时间错误',
-			'k_11o6a70': '实名认证成功',
-			'k_003pvnf': '姓名',
-			'k_1ftut35': '输入您的姓名',
-			'k_1sdfsp0': '身份证号码',
-			'k_0wkndha': '输入您的身份证号码',
-			'k_1y9bhhb': '请输入正确的姓名和身份证号',
-			'k_03eaqiz': '下一步',
-			'k_0llbd45': '根据相关法律法规，完成实名认证后才能注册成功',
-			'k_003nbbe': '客服',
-			'k_153slh1': '免费注册',
-			'k_1o0hgk5': '忘记密码?',
-			'k_1jmec3r': '验证码登录',
-			'k_003mfaa': '密码',
-			'k_16fluxb': '用手机号注册',
-			'k_1nak7z8': '请输入短信验证码',
-			'k_1t9kzib': '请输入密码',
-			'k_1hxitjy': '密码长度要大于6个字符',
-			'k_190gsmz': '请勾选用户协议',
-			'k_1k6nsc6': '已有账号，去登录',
-			'k_0wonbyj': '选择国家/地区',
-			'k_003p7ir': '香港',
-			'k_003n0p8': '日本',
-			'k_002qqnq': '澳門',
-			'k_003l858': '臺灣',
-			'k_1cxw2as': '网络异常，请检查你的网络！',
-			'k_1h008je': '服务器异常！',
-			'k_1bqypqk': '连接超时！',
-			'k_14n1r3i': '取消请求',
-			'k_16anqj4': '未知异常',
-			'k_0ofjb4m': '请求地址错误',
-			'k_019l7v9': '语音消息太短了，发送失败',
-			'k_1iq7dqo': '网络异常，请检查手机网络',
-			'k_1qftopu': '很抱歉，因为历史消息太多啦，未能定位到原消息',
-			'k_0v1x48s': '设备存储空间不足',
-			'k_04kxdio': '收到不支持的视频格式(仅支持 MP4 格式)',
-			'k_0jqg56q': '群组名称不超过10个汉字',
-			'k_04vttkw': '您不在该群组中',
-			'k_1sv9ozd': '群组操作权限不足',
-			'k_1o5hokj': '验证已失效',
-			'k_0gz4ni4': '未知错误',
-			'k_1outzsa': '消息内容过多，发送失败！',
-			'k_05tl6ah': '该群组已被解散',
-			'k_1hj1unp': '您已被禁言',
-			'k_0ybsani': '无效的消息',
-			'k_0t1vzz7': '聊天服务签名异常',
-			'k_0uxhld5': '请求过于频繁，请稍后再试',
-			'k_0bb5lc8': '帐号已被被拉黑',
-			'k_1klyit4': '请求的账号不存在',
-			'k_1mh4f77': '因安全原因被限制登录，请不要频繁登录。',
-			'k_1iz0d7e': '服务端内部超时，请稍后重试。',
-			'k_17gz72e': '请求中批量数量不合法。',
-			'k_0b2n04j': '您使用的版本太低，请升级到最新版本。',
-			'k_1ao2s3n': '权限不足，操作失败。',
-			'k_0b9gj3x': '请升级聊天服务',
-			'k_0l8awjd': '并发用户过高，请联系客服',
-			'k_1urnn0n': '请勿频繁登录与退出',
-			'k_1p6dcs6': '网络环境异常，请检查网络连接',
-			'k_0ptfjkx': '对方已将您拉黑',
-			'k_0iltsr2': '登录状态异常，请重新登录',
-			'k_0yk4kjq': '消息未找到',
-			'k_0n9piov': '消息不存在',
-			'k_0c786uw': '即时通信服务连接失败',
-			'k_1hmfp8h': '即时通信服务连接中',
-			'k_0xyf58f': '登录状态已失效，请重新登录',
-			'k_1tyzgij': '令牌时效,请重新登录',
-			'k_1g50ztv': '即时通信服务初始化失败',
-			'k_0quxvmc': '请输入支付密码',
-			'k_160sb5e': '发送红包',
-			'k_12kxh3j': '验证密码',
-			'k_125wb4w': '下拉刷新',
-			'k_125pk70': '松开刷新',
-			'k_13fa0ke': '刷新完成',
-			'k_1jxgrp7': '加载中...',
-			'k_0v5ilv9': '上拉加载更多',
-			'k_0v5swmg': '松开加载更多',
-			'k_0cr7hfh': '没有更多数据',
-			'k_15wbgq5': '刷新成功',
-			'k_1jwyge9': '刷新中...',
-			'k_1rlopig': '[公众号文章]',
-			'k_1nmlx8k': '[语音直播]',
-			'k_0y7hb2c': '[红包]',
-			'k_0y1agsp': '[名片]',
+			'k_15ang3o': 'My Wallet',
+			'k_1gnu9ra': 'My USDT',
+			'k_003qjuk': 'Recharge',
+			'k_003l46d': 'Withdraw',
+			'k_15wemfn': 'Recharge successful',
+			'k_1vqvg0y': 'Please transfer USDT to the following address',
+			'k_15we8ep': 'Copy successful',
+			'k_0b4wh2e': 'After the transfer is completed, please enter the transaction Token below',
+			'k_1jqn9ih': 'Transaction Token',
+			'k_002uu5l': 'Paste',
+			'k_0f8q3nj': 'Recharge into account',
+			'k_03f6511': 'Withdraw to',
+			'k_0pklv2t': 'Please bind wallet address first',
+			'k_0d3x98p': 'Withdrawal Amount',
+			'k_068m6qw': 'Please enter the amount',
+			'k_02yrsp6': ({required Object option1}) => 'Current balance $option1',
+			'k_0foqurj': 'Insufficient balance',
+			'k_11h7h7p': 'Withdraw all',
+			'k_0epwkn5': 'Please enter the correct withdrawal amount',
+			'k_15w96ru': 'Withdrawal successful',
+			'k_003nqkz': 'Replacement',
+			'k_003ry6m': 'Binding',
+			'k_003py1h': 'Type',
+			'k_003q0mt': 'Address',
+			'k_11y0i55': 'Wallet Details',
+			'k_134pvev': 'Time selection',
+			'k_15aundm': 'Bind Wallet',
+			'k_15iimbl': 'Wallet Type',
+			'k_14bvx6m': 'Wallet Remarks',
+			'k_09equn4': 'Please enter wallet address',
+			'k_13jsfpy': 'Please select wallet type',
+			'k_0uy7vvj': 'Please enter wallet remarks',
+			'k_11wem41': 'Follow the system',
+			'k_16on03j': 'Day Mode',
+			'k_16os0uz': 'Set Mode',
+			'k_16loi3t': 'Font Size',
+			'k_0aocx45': 'Preview font size',
+			'k_00043ai': 'Small',
+			'k_003pkuc': 'Standard',
+			'k_00043uq': 'Large',
+			'k_1e2o09m': 'Notification display message details',
+			'k_0nu1yos': 'Go to system settings',
+			'k_112pkbh': 'Message Notification',
+			'k_0tg0hol': 'Chat interface message prompt',
+			'k_1s63iqw': 'Chat interface voice and video call reminder',
+			'k_0ekexfa': 'Voice and video call reminder tone',
+			'k_1ms5id3': 'Message Notification Prompt',
+			'k_0h77bwt': 'Switch language',
+			'k_12kotxx': 'Change password',
+			'k_0ohliw2': 'Change payment password',
+			'k_0ss301w': 'Please enter the old password',
+			'k_0sqq0kz': 'Please enter a new password',
+			'k_1a1c08v': 'Please enter the new password again',
+			'k_16a3xme': 'Select ringtone',
+			'k_002v2m1': 'Default',
+			'k_003jf1x': 'Incoming call',
+			'k_002rdrs': 'Elegant',
+			'k_003kvau': 'Lightness',
+			'k_003rbbb': 'Happy',
+			'k_1uslpqg': 'Make sure to clear all chat history, it will not be recoverable after clearing!',
+			'k_1r1zwum': 'Chat history has been cleared',
+			'k_148ihfp': 'Are you sure to clear all cached data',
+			'k_1ko89xf': 'Cache has been cleared',
+			'k_1y4m6ll': 'Login password has been changed',
+			'k_1y4q4r4': 'The payment password has been changed',
+			'k_18n0wgy': 'Chat font',
+			'k_172ymi7': 'Clear cache',
+			'k_1c88jkl': 'Clear all chat records',
+			'k_00fp373': 'Chat history backup and migration',
+			'k_12kh1kc': 'Login Password',
+			'k_12kjxn9': 'Payment password',
+			'k_0c0iy96': 'Account Cancellation',
+			'k_0yngxez': 'After logging out, you will not be able to use the current account, and related data will also be deleted and cannot be retrieved.',
+			'k_0c0nex3': 'Continue to logout',
+			'k_0k58icw': 'Exit the current account',
+			'k_1t2qn6k': 'The red envelope I sent',
+			'k_16000bb': 'My red envelope',
+			'k_10esx8g': 'Received red envelope',
+			'k_02oubz4': 'Quantity:',
+			'k_02psrbq': 'integral:',
+			'k_12b45i0': 'Number of red envelopes',
+			'k_1g49dbx': 'Please fill in the number of red envelopes',
+			'k_00046tr': 'unit',
+			'k_02jsbaq': 'Total amount',
+			'k_002s44p': 'Amount',
+			'k_19u8qtn': 'Gong Xi Fa Cai, good luck',
+			'k_1jzucnx': 'Send red envelopes...',
+			'k_11l6ib2': 'Reminder',
+			'k_0v6os6k': 'You have not set a payment password, please set a payment password first',
+			'k_03bcscu': 'Go to settings',
+			'k_1ey4n63': 'Please fill in the red envelope amount',
+			'k_1x36072': 'The number of red envelopes must be greater than 1',
+			'k_11kbq7a': 'The amount of the red envelope must be greater than 0.01',
+			'k_114aic6': 'Put money into the red envelope',
+			'k_12rwge9': 'Red envelope details',
+			'k_0hjtqzx': 'Collect time:',
+			'k_0hjm4ya': 'Issue time:',
+			'k_02pm53k': 'Remarks:',
+			'k_15zrx76': 'Personal red envelope',
+			'k_003pn1q': 'Send',
+			'k_003qhoj': 'Received',
+			'k_003loel': 'Details',
+			'k_15ken91': 'Select address',
+			'k_003qdlq': 'Add',
+			'k_0m49i5e': 'Please select an address',
+			'k_0cftftk': 'OK Selected',
+			'k_15h7hgn': 'My prize',
+			'k_003rxj2': 'Win the prize',
+			'k_0004138': 'times',
+			'k_03gl6vo': 'Not winning',
+			'k_02mnstm': 'To be confirmed',
+			'k_02m48om': 'to be shipped',
+			'k_03bcql4': 'Issued',
+			'k_176stij': 'Lottery Draw Record',
+			'k_06uvhak': 'Harvest address confirmed',
+			'k_12rxqup': 'Prize Details',
+			'k_02m4875': 'Shipped',
+			'k_05lreie': 'Reward redemption instructions:\n1. Please confirm the delivery address so that we can send you the prize!\n2. Please note that the staff will not ask you for your account number and password.',
+			'k_1gimnic': 'Select delivery address',
+			'k_13mdgdf': 'Logistics Information',
+			'k_0bz5qxd': 'Delivery time',
+			'k_1643ht4': 'Express Company',
+			'k_165wkhq': 'Express tracking number',
+			'k_03j8ulq': 'Consignee',
+			'k_0gvsmf6': 'Contact number',
+			'k_15lhsw4': 'Shipping Address',
+			'k_12kwi6i': 'Forgot Password',
+			'k_139hvwk': 'Hi, welcome to Feifei!',
+			'k_12cz35y': 'Confirm the modification',
+			'k_03bl1bs': 'Graphics code',
+			'k_003pg1h': 'China',
+			'k_0zei6y3': 'Mainland China users',
+			'k_0gx2hvj': 'Manual Authentication',
+			'k_0vsuvrp': 'Non-Mainland China users',
+			'k_176oa6w': 'Please select a region',
+			'k_0iztiey': 'Please enter your name',
+			'k_1ulmr9x': 'Please select a document type',
+			'k_17ivr9h': 'Please enter the ID number',
+			'k_0k2ghyn': 'Please upload ID photo',
+			'k_02gkz6q': 'Please upload a photo with your ID in hand',
+			'k_15wgmqm': 'Successful submission',
+			'k_03c67bm': 'Please select',
+			'k_03fkcas': 'Please enter',
+			'k_02nltw2': 'ID card',
+			'k_003k692': 'Passport',
+			'k_1ufbmvz': 'Hold ID photo',
+			'k_0gwzc1g': 'Submit Certification',
+			'k_0f8cwpo': 'Authentication failed',
+			'k_15wqp1j': 'Verification succeeded',
+			'k_129vp54': 'Authentication interrupted',
+			'k_0gz64im': 'Network error',
+			'k_0gyzkep': 'Time Error',
+			'k_11o6a70': 'Real-name authentication succeeded',
+			'k_003pvnf': 'Name',
+			'k_1ftut35': 'Enter your name',
+			'k_1sdfsp0': 'ID card number',
+			'k_0wkndha': 'Enter your ID number',
+			'k_1y9bhhb': 'Please enter the correct name and ID number',
+			'k_03eaqiz': 'Next step',
+			'k_0llbd45': 'According to relevant laws and regulations, registration can only be successful after completing real-name authentication',
+			'k_003nbbe': 'Customer Service',
+			'k_153slh1': 'Free Registration',
+			'k_1o0hgk5': 'Forgot your password?',
+			'k_1jmec3r': 'Verification code login',
+			'k_003mfaa': 'Password',
+			'k_16fluxb': 'Register with mobile phone number',
+			'k_1nak7z8': 'Please enter the SMS verification code',
+			'k_1t9kzib': 'Please enter a password',
+			'k_1hxitjy': 'Password length must be greater than 6 characters',
+			'k_190gsmz': 'Please check the user agreement',
+			'k_1k6nsc6': 'Already have an account, log in',
+			'k_0wonbyj': 'Select Country/Region',
+			'k_003p7ir': 'Hong Kong',
+			'k_003n0p8': 'Japan',
+			'k_002qqnq': 'Macao',
+			'k_003l858': 'Taiwan',
+			'k_1cxw2as': 'The network is abnormal, please check your network!',
+			'k_1h008je': 'Server exception!',
+			'k_1bqypqk': 'Connection timed out!',
+			'k_14n1r3i': 'Cancel Request',
+			'k_16anqj4': 'Unknown exception',
+			'k_0ofjb4m': 'Request address error',
+			'k_019l7v9': 'The voice message is too short, sending failed',
+			'k_1iq7dqo': 'The network is abnormal, please check the mobile phone network',
+			'k_1qftopu': 'Sorry, because there are too many historical messages, the original message cannot be located',
+			'k_0v1x48s': 'Insufficient device storage space',
+			'k_04kxdio': 'Received unsupported video format (only MP4 format is supported)',
+			'k_0jqg56q': 'Group name does not exceed 10 Chinese characters',
+			'k_04vttkw': 'You are not in this group',
+			'k_1sv9ozd': 'Insufficient group operation permissions',
+			'k_1o5hokj': 'Verification has expired',
+			'k_0gz4ni4': 'Unknown error',
+			'k_1outzsa': 'The message content is too large, sending failed!',
+			'k_05tl6ah': 'The group has been disbanded',
+			'k_1hj1unp': 'You have been banned',
+			'k_0ybsani': 'Invalid message',
+			'k_0t1vzz7': 'Chat service signature exception',
+			'k_0uxhld5': 'The request is too frequent, please try again later',
+			'k_0bb5lc8': 'The account has been blocked',
+			'k_1klyit4': 'The requested account does not exist',
+			'k_1mh4f77': 'Login is restricted due to security reasons, please do not log in frequently.',
+			'k_1iz0d7e': 'The internal server timed out, please try again later.',
+			'k_17gz72e': 'The batch quantity in the request is invalid.',
+			'k_0b2n04j': 'The version you are using is too low, please upgrade to the latest version.',
+			'k_1ao2s3n': 'Insufficient permissions, the operation failed.',
+			'k_0b9gj3x': 'Please upgrade the chat service',
+			'k_0l8awjd': 'Concurrent users are too high, please contact customer service',
+			'k_1urnn0n': 'Do not log in and out frequently',
+			'k_1p6dcs6': 'The network environment is abnormal, please check the network connection',
+			'k_0ptfjkx': 'The other party has blocked you',
+			'k_0iltsr2': 'The login status is abnormal, please log in again',
+			'k_0yk4kjq': 'Message not found',
+			'k_0n9piov': 'The message does not exist',
+			'k_0c786uw': 'Failed to connect to instant messaging service',
+			'k_1hmfp8h': 'Connecting to instant messaging service',
+			'k_0xyf58f': 'Login status has expired, please log in again',
+			'k_1tyzgij': 'Token expiration, please log in again',
+			'k_1g50ztv': 'Initialization of instant messaging service failed',
+			'k_0quxvmc': 'Please enter the payment password',
+			'k_160sb5e': 'Send red packets',
+			'k_12kxh3j': 'Verify Password',
+			'k_125wb4w': 'Pull down to refresh',
+			'k_125pk70': 'Release to refresh',
+			'k_13fa0ke': 'Refresh complete',
+			'k_1jxgrp7': 'Loading...',
+			'k_0v5ilv9': 'Pull up to load more',
+			'k_0v5swmg': 'Release to load more',
+			'k_0cr7hfh': 'No more data',
+			'k_15wbgq5': 'Refresh successfully',
+			'k_1jwyge9': 'Refreshing...',
+			'k_1rlopig': '[Official account article]',
+			'k_1nmlx8k': '[Live Voice]',
+			'k_0y7hb2c': '[Red envelope]',
+			'k_0y1agsp': '[Business card]',
 			'k_03ckc9x': 'Sweep',
 			'k_002tme4': 'collection',
 			'k_003qio2': 'red envelope',
@@ -8733,10 +8733,10 @@ extension on _StringsJa {
 			'k_0ej3rpa': '请设置您的支付密码',
 			'k_0dh17j8': '请确认您的支付密码',
 			'k_0po9pww': '您已成功设置支付密码',
-			'k_02zez2y': '【图】',
-			'k_0r9344n': '【位置】',
-			'k_0rqux0a': '【语音】',
-			'k_0rpkyk3': '【视频】',
+			'k_02zez2y': '[图片]',
+			'k_0r9344n': '[位置]',
+			'k_0rqux0a': '[语音]',
+			'k_0rpkyk3': '[视频]',
 			'k_0g26flq': '数据解析错误',
 			'k_0zrqsp7': '插入数据库失败',
 			'k_1f8pdit': '本地文件不存在',
@@ -9981,10 +9981,10 @@ extension on _StringsKo {
 			'k_0ej3rpa': '请设置您的支付密码',
 			'k_0dh17j8': '请确认您的支付密码',
 			'k_0po9pww': '您已成功设置支付密码',
-			'k_02zez2y': '【图】',
-			'k_0r9344n': '【位置】',
-			'k_0rqux0a': '【语音】',
-			'k_0rpkyk3': '【视频】',
+			'k_02zez2y': '[图片]',
+			'k_0r9344n': '[位置]',
+			'k_0rqux0a': '[语音]',
+			'k_0rpkyk3': '[视频]',
 			'k_0g26flq': '数据解析错误',
 			'k_0zrqsp7': '插入数据库失败',
 			'k_1f8pdit': '本地文件不存在',
@@ -11229,10 +11229,10 @@ extension on _StringsZhHans {
 			'k_0ej3rpa': '请设置您的支付密码',
 			'k_0dh17j8': '请确认您的支付密码',
 			'k_0po9pww': '您已成功设置支付密码',
-			'k_02zez2y': '【图】',
-			'k_0r9344n': '【位置】',
-			'k_0rqux0a': '【语音】',
-			'k_0rpkyk3': '【视频】',
+			'k_02zez2y': '[图片]',
+			'k_0r9344n': '[位置]',
+			'k_0rqux0a': '[语音]',
+			'k_0rpkyk3': '[视频]',
 			'k_0g26flq': '数据解析错误',
 			'k_0zrqsp7': '插入数据库失败',
 			'k_1f8pdit': '本地文件不存在',
@@ -12477,10 +12477,10 @@ extension on _StringsZhHant {
 			'k_0ej3rpa': '请设置您的支付密码',
 			'k_0dh17j8': '请确认您的支付密码',
 			'k_0po9pww': '您已成功设置支付密码',
-			'k_02zez2y': '【图】',
-			'k_0r9344n': '【位置】',
-			'k_0rqux0a': '【语音】',
-			'k_0rpkyk3': '【视频】',
+			'k_02zez2y': '[图片]',
+			'k_0r9344n': '[位置]',
+			'k_0rqux0a': '[语音]',
+			'k_0rpkyk3': '[视频]',
 			'k_0g26flq': '数据解析错误',
 			'k_0zrqsp7': '插入数据库失败',
 			'k_1f8pdit': '本地文件不存在',
